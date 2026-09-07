@@ -1,0 +1,55 @@
+name: Chart Pattern Scout - scan saptamanal
+
+on:
+  schedule:
+    # Vineri, 21:30 UTC = ~23:30/00:30 Romania (in functie de ora de vara)
+    # Suficient dupa close-ul US (20:00 UTC iarna / 20:00 UTC vara la NYSE 16:00 ET)
+    - cron: '30 21 * * 5'
+  workflow_dispatch: {}  # permite rulare manuala din tab-ul Actions
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instaleaza dependinte
+        run: pip install -r requirements.txt
+
+      - name: Ruleaza scanarea (daily)
+        run: python scan.py --interval 1d --outdir docs
+
+      - name: Commit starea scanarii (pentru comparatie saptamana viitoare)
+        run: |
+          git config user.name "chart-pattern-scout-bot"
+          git config user.email "actions@github.com"
+          git add docs/scan_state.json
+          git diff --staged --quiet || git commit -m "Update scan state $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact pentru Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy pe GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
