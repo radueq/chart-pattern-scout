@@ -1,0 +1,4902 @@
+{
+  "000660.KS|1d|Double Top|2026-01-08 00:00:00": {
+    "first_seen": "2026-09-07T15:37:56.903022+00:00",
+    "status": "forming"
+  },
+  "000660.KS|1d|Double Top|2026-01-30 00:00:00": {
+    "first_seen": "2026-09-07T15:37:57.219880+00:00",
+    "status": "forming"
+  },
+  "000660.KS|1d|Double Top|2026-03-18 00:00:00": {
+    "first_seen": "2026-09-07T15:37:57.450607+00:00",
+    "status": "forming"
+  },
+  "000660.KS|1d|Double Top|2026-03-25 00:00:00": {
+    "first_seen": "2026-09-07T15:37:57.600792+00:00",
+    "status": "forming"
+  },
+  "000660.KS|1d|Double Bottom|2025-12-05 00:00:00": {
+    "first_seen": "2026-09-07T15:37:57.740851+00:00",
+    "status": "confirmed"
+  },
+  "000660.KS|1d|Double Bottom|2026-01-13 00:00:00": {
+    "first_seen": "2026-09-07T15:37:57.877635+00:00",
+    "status": "confirmed"
+  },
+  "000660.KS|1d|Double Bottom|2026-02-06 00:00:00": {
+    "first_seen": "2026-09-07T15:37:58.020604+00:00",
+    "status": "confirmed"
+  },
+  "000660.KS|1d|Inverse Head & Shoulders|2025-11-05 00:00:00": {
+    "first_seen": "2026-09-07T15:37:58.341256+00:00",
+    "status": "confirmed"
+  },
+  "000660.KS|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:37:58.474914+00:00",
+    "status": "forming"
+  },
+  "000660.KS|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:37:58.616457+00:00",
+    "status": "forming"
+  },
+  "MU|1d|Double Top|2026-07-09 00:00:00": {
+    "first_seen": "2026-09-07T15:37:59.332173+00:00",
+    "status": "forming"
+  },
+  "MU|1d|Double Bottom|2025-12-04 00:00:00": {
+    "first_seen": "2026-09-07T15:37:59.471095+00:00",
+    "status": "confirmed"
+  },
+  "MU|1d|Double Bottom|2026-02-04 00:00:00": {
+    "first_seen": "2026-09-07T15:37:59.770726+00:00",
+    "status": "confirmed"
+  },
+  "MU|1d|Inverse Head & Shoulders|2025-11-04 00:00:00": {
+    "first_seen": "2026-09-07T15:37:59.898587+00:00",
+    "status": "confirmed"
+  },
+  "MU|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:00.035536+00:00",
+    "status": "confirmed"
+  },
+  "AMD|1d|Double Top|2025-09-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:00.572834+00:00",
+    "status": "forming"
+  },
+  "AMD|1d|Double Top|2025-10-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:00.706912+00:00",
+    "status": "forming"
+  },
+  "AMD|1d|Double Top|2025-12-02 00:00:00": {
+    "first_seen": "2026-09-07T15:38:00.839934+00:00",
+    "status": "forming"
+  },
+  "AMD|1d|Double Top|2025-12-09 00:00:00": {
+    "first_seen": "2026-09-07T15:38:01.136664+00:00",
+    "status": "forming"
+  },
+  "AMD|1d|Double Top|2026-02-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:01.478725+00:00",
+    "status": "forming"
+  },
+  "AMD|1d|Double Top|2026-06-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:01.616722+00:00",
+    "status": "forming"
+  },
+  "AMD|1d|Double Top|2026-06-30 00:00:00": {
+    "first_seen": "2026-09-07T15:38:01.751565+00:00",
+    "status": "confirmed"
+  },
+  "AMD|1d|Double Top|2026-07-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:01.903412+00:00",
+    "status": "forming"
+  },
+  "AMD|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:02.177778+00:00",
+    "status": "confirmed"
+  },
+  "AMD|1d|Double Bottom|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:38:02.314892+00:00",
+    "status": "confirmed"
+  },
+  "AMD|1d|Double Bottom|2026-06-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:02.454099+00:00",
+    "status": "forming"
+  },
+  "AMD|1d|Double Bottom|2026-08-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:02.587390+00:00",
+    "status": "forming"
+  },
+  "AMD|1d|Head & Shoulders|2026-06-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:02.719213+00:00",
+    "status": "confirmed"
+  },
+  "AMD|1d|Inverse Head & Shoulders|2025-12-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:02.961458+00:00",
+    "status": "confirmed"
+  },
+  "AMD|1d|Inverse Head & Shoulders|2026-01-12 00:00:00": {
+    "first_seen": "2026-09-07T15:38:03.102085+00:00",
+    "status": "confirmed"
+  },
+  "AMD|1d|Inverse Head & Shoulders|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:03.240365+00:00",
+    "status": "forming"
+  },
+  "NVDA|1d|Double Top|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:03.808258+00:00",
+    "status": "forming"
+  },
+  "NVDA|1d|Double Top|2025-10-02 00:00:00": {
+    "first_seen": "2026-09-07T15:38:03.976463+00:00",
+    "status": "forming"
+  },
+  "NVDA|1d|Double Top|2026-01-16 00:00:00": {
+    "first_seen": "2026-09-07T15:38:04.230415+00:00",
+    "status": "forming"
+  },
+  "NVDA|1d|Double Top|2026-01-30 00:00:00": {
+    "first_seen": "2026-09-07T15:38:04.365439+00:00",
+    "status": "forming"
+  },
+  "NVDA|1d|Double Top|2026-05-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:04.501726+00:00",
+    "status": "forming"
+  },
+  "NVDA|1d|Double Top|2026-06-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:04.638136+00:00",
+    "status": "forming"
+  },
+  "NVDA|1d|Double Top|2026-07-15 00:00:00": {
+    "first_seen": "2026-09-07T15:38:04.775901+00:00",
+    "status": "forming"
+  },
+  "NVDA|1d|Double Bottom|2025-09-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:05.103184+00:00",
+    "status": "confirmed"
+  },
+  "NVDA|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:05.244215+00:00",
+    "status": "confirmed"
+  },
+  "NVDA|1d|Double Bottom|2025-11-25 00:00:00": {
+    "first_seen": "2026-09-07T15:38:05.383786+00:00",
+    "status": "confirmed"
+  },
+  "NVDA|1d|Double Bottom|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:05.560550+00:00",
+    "status": "confirmed"
+  },
+  "NVDA|1d|Double Bottom|2026-04-23 00:00:00": {
+    "first_seen": "2026-09-07T15:38:05.697102+00:00",
+    "status": "confirmed"
+  },
+  "NVDA|1d|Head & Shoulders|2025-10-02 00:00:00": {
+    "first_seen": "2026-09-07T15:38:05.982855+00:00",
+    "status": "forming"
+  },
+  "NVDA|1d|Head & Shoulders|2026-01-16 00:00:00": {
+    "first_seen": "2026-09-07T15:38:06.120925+00:00",
+    "status": "forming"
+  },
+  "NVDA|1d|Inverse Head & Shoulders|2025-10-15 00:00:00": {
+    "first_seen": "2026-09-07T15:38:06.263602+00:00",
+    "status": "confirmed"
+  },
+  "NVDA|1d|Inverse Head & Shoulders|2026-08-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:06.404783+00:00",
+    "status": "confirmed"
+  },
+  "NVDA|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:38:06.541948+00:00",
+    "status": "confirmed"
+  },
+  "NVDA|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:06.808032+00:00",
+    "status": "forming"
+  },
+  "QCOM|1d|Double Top|2025-09-24 00:00:00": {
+    "first_seen": "2026-09-07T15:38:07.409444+00:00",
+    "status": "forming"
+  },
+  "QCOM|1d|Double Top|2025-12-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:07.544353+00:00",
+    "status": "confirmed"
+  },
+  "QCOM|1d|Double Top|2026-02-18 00:00:00": {
+    "first_seen": "2026-09-07T15:38:07.681279+00:00",
+    "status": "forming"
+  },
+  "QCOM|1d|Double Top|2026-08-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:07.818729+00:00",
+    "status": "forming"
+  },
+  "QCOM|1d|Double Bottom|2025-12-09 00:00:00": {
+    "first_seen": "2026-09-07T15:38:08.167166+00:00",
+    "status": "forming"
+  },
+  "QCOM|1d|Double Bottom|2025-12-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:08.304243+00:00",
+    "status": "forming"
+  },
+  "QCOM|1d|Double Bottom|2026-02-13 00:00:00": {
+    "first_seen": "2026-09-07T15:38:08.442568+00:00",
+    "status": "confirmed"
+  },
+  "QCOM|1d|Double Bottom|2026-05-19 00:00:00": {
+    "first_seen": "2026-09-07T15:38:08.582270+00:00",
+    "status": "forming"
+  },
+  "QCOM|1d|Head & Shoulders|2025-11-13 00:00:00": {
+    "first_seen": "2026-09-07T15:38:08.719286+00:00",
+    "status": "forming"
+  },
+  "QCOM|1d|Inverse Head & Shoulders|2025-10-01 00:00:00": {
+    "first_seen": "2026-09-07T15:38:09.023582+00:00",
+    "status": "forming"
+  },
+  "QCOM|1d|Inverse Head & Shoulders|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:09.159730+00:00",
+    "status": "forming"
+  },
+  "QCOM|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:38:09.295349+00:00",
+    "status": "forming"
+  },
+  "QCOM|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:09.431222+00:00",
+    "status": "confirmed"
+  },
+  "ARM|1d|Double Top|2025-10-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:10.001461+00:00",
+    "status": "forming"
+  },
+  "ARM|1d|Double Top|2026-01-05 00:00:00": {
+    "first_seen": "2026-09-07T15:38:10.284303+00:00",
+    "status": "forming"
+  },
+  "ARM|1d|Double Top|2026-02-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:10.418188+00:00",
+    "status": "forming"
+  },
+  "ARM|1d|Double Top|2026-02-18 00:00:00": {
+    "first_seen": "2026-09-07T15:38:10.550216+00:00",
+    "status": "forming"
+  },
+  "ARM|1d|Double Top|2026-04-24 00:00:00": {
+    "first_seen": "2026-09-07T15:38:10.765336+00:00",
+    "status": "forming"
+  },
+  "ARM|1d|Double Top|2026-07-21 00:00:00": {
+    "first_seen": "2026-09-07T15:38:10.897374+00:00",
+    "status": "forming"
+  },
+  "ARM|1d|Double Bottom|2026-01-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:11.024406+00:00",
+    "status": "confirmed"
+  },
+  "ARM|1d|Double Bottom|2026-02-13 00:00:00": {
+    "first_seen": "2026-09-07T15:38:11.261355+00:00",
+    "status": "confirmed"
+  },
+  "ARM|1d|Double Bottom|2026-03-30 00:00:00": {
+    "first_seen": "2026-09-07T15:38:11.387714+00:00",
+    "status": "confirmed"
+  },
+  "ARM|1d|Double Bottom|2026-06-09 00:00:00": {
+    "first_seen": "2026-09-07T15:38:11.512356+00:00",
+    "status": "forming"
+  },
+  "ARM|1d|Head & Shoulders|2026-07-21 00:00:00": {
+    "first_seen": "2026-09-07T15:38:11.634931+00:00",
+    "status": "forming"
+  },
+  "ARM|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:11.759535+00:00",
+    "status": "forming"
+  },
+  "ARM|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:38:11.993318+00:00",
+    "status": "confirmed"
+  },
+  "AVGO|1d|Double Top|2025-11-28 00:00:00": {
+    "first_seen": "2026-09-07T15:38:12.534187+00:00",
+    "status": "confirmed"
+  },
+  "AVGO|1d|Double Top|2026-01-02 00:00:00": {
+    "first_seen": "2026-09-07T15:38:12.661746+00:00",
+    "status": "forming"
+  },
+  "AVGO|1d|Double Top|2026-04-23 00:00:00": {
+    "first_seen": "2026-09-07T15:38:12.788884+00:00",
+    "status": "confirmed"
+  },
+  "AVGO|1d|Double Top|2026-05-06 00:00:00": {
+    "first_seen": "2026-09-07T15:38:12.917063+00:00",
+    "status": "confirmed"
+  },
+  "AVGO|1d|Double Top|2026-06-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:13.126625+00:00",
+    "status": "forming"
+  },
+  "AVGO|1d|Double Bottom|2025-10-01 00:00:00": {
+    "first_seen": "2026-09-07T15:38:13.254509+00:00",
+    "status": "confirmed"
+  },
+  "AVGO|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:13.381222+00:00",
+    "status": "forming"
+  },
+  "AVGO|1d|Double Bottom|2025-12-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:13.511540+00:00",
+    "status": "forming"
+  },
+  "AVGO|1d|Double Bottom|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:13.667845+00:00",
+    "status": "confirmed"
+  },
+  "AVGO|1d|Double Bottom|2026-03-02 00:00:00": {
+    "first_seen": "2026-09-07T15:38:13.895980+00:00",
+    "status": "confirmed"
+  },
+  "AVGO|1d|Double Bottom|2026-04-28 00:00:00": {
+    "first_seen": "2026-09-07T15:38:14.022449+00:00",
+    "status": "forming"
+  },
+  "AVGO|1d|Double Bottom|2026-07-02 00:00:00": {
+    "first_seen": "2026-09-07T15:38:14.147730+00:00",
+    "status": "forming"
+  },
+  "AVGO|1d|Head & Shoulders|2026-02-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:14.273299+00:00",
+    "status": "forming"
+  },
+  "AVGO|1d|Inverse Head & Shoulders|2026-01-23 00:00:00": {
+    "first_seen": "2026-09-07T15:38:14.401894+00:00",
+    "status": "confirmed"
+  },
+  "AVGO|1d|Inverse Head & Shoulders|2026-06-09 00:00:00": {
+    "first_seen": "2026-09-07T15:38:14.611032+00:00",
+    "status": "forming"
+  },
+  "AVGO|1d|Triunghi descendent|": {
+    "first_seen": "2026-09-07T15:38:14.739032+00:00",
+    "status": "forming"
+  },
+  "AVGO|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:14.862245+00:00",
+    "status": "forming"
+  },
+  "AVGO|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:38:14.988240+00:00",
+    "status": "forming"
+  },
+  "MRVL|1d|Double Top|2026-01-28 00:00:00": {
+    "first_seen": "2026-09-07T15:38:15.651572+00:00",
+    "status": "forming"
+  },
+  "MRVL|1d|Double Top|2026-02-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:15.847787+00:00",
+    "status": "forming"
+  },
+  "MRVL|1d|Double Top|2026-03-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:15.969138+00:00",
+    "status": "forming"
+  },
+  "MRVL|1d|Double Top|2026-04-24 00:00:00": {
+    "first_seen": "2026-09-07T15:38:16.083899+00:00",
+    "status": "forming"
+  },
+  "MRVL|1d|Double Top|2026-06-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:16.216787+00:00",
+    "status": "confirmed"
+  },
+  "MRVL|1d|Double Bottom|2026-02-23 00:00:00": {
+    "first_seen": "2026-09-07T15:38:16.339015+00:00",
+    "status": "confirmed"
+  },
+  "MRVL|1d|Double Bottom|2026-03-19 00:00:00": {
+    "first_seen": "2026-09-07T15:38:16.539328+00:00",
+    "status": "confirmed"
+  },
+  "MRVL|1d|Head & Shoulders|2025-12-23 00:00:00": {
+    "first_seen": "2026-09-07T15:38:16.658619+00:00",
+    "status": "forming"
+  },
+  "MRVL|1d|Inverse Head & Shoulders|2025-10-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:16.780298+00:00",
+    "status": "confirmed"
+  },
+  "MRVL|1d|Inverse Head & Shoulders|2026-01-20 00:00:00": {
+    "first_seen": "2026-09-07T15:38:16.900905+00:00",
+    "status": "confirmed"
+  },
+  "MRVL|1d|Inverse Head & Shoulders|2026-03-13 00:00:00": {
+    "first_seen": "2026-09-07T15:38:17.021143+00:00",
+    "status": "confirmed"
+  },
+  "MRVL|1d|Triunghi simetric|": {
+    "first_seen": "2026-09-07T15:38:17.215736+00:00",
+    "status": "confirmed"
+  },
+  "MRVL|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:17.338546+00:00",
+    "status": "forming"
+  },
+  "AMKR|1d|Double Top|2025-10-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:17.985981+00:00",
+    "status": "forming"
+  },
+  "AMKR|1d|Double Top|2025-10-16 00:00:00": {
+    "first_seen": "2026-09-07T15:38:18.105949+00:00",
+    "status": "forming"
+  },
+  "AMKR|1d|Double Top|2026-02-26 00:00:00": {
+    "first_seen": "2026-09-07T15:38:18.226667+00:00",
+    "status": "forming"
+  },
+  "AMKR|1d|Double Top|2026-04-27 00:00:00": {
+    "first_seen": "2026-09-07T15:38:18.421957+00:00",
+    "status": "confirmed"
+  },
+  "AMKR|1d|Double Top|2026-07-15 00:00:00": {
+    "first_seen": "2026-09-07T15:38:18.543996+00:00",
+    "status": "confirmed"
+  },
+  "AMKR|1d|Double Bottom|2025-09-30 00:00:00": {
+    "first_seen": "2026-09-07T15:38:18.663899+00:00",
+    "status": "confirmed"
+  },
+  "AMKR|1d|Double Bottom|2025-12-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:18.788186+00:00",
+    "status": "confirmed"
+  },
+  "AMKR|1d|Double Bottom|2026-03-09 00:00:00": {
+    "first_seen": "2026-09-07T15:38:18.911785+00:00",
+    "status": "forming"
+  },
+  "AMKR|1d|Inverse Head & Shoulders|2026-04-28 00:00:00": {
+    "first_seen": "2026-09-07T15:38:19.140812+00:00",
+    "status": "forming"
+  },
+  "ASX|1d|Double Top|2025-09-23 00:00:00": {
+    "first_seen": "2026-09-07T15:38:19.710921+00:00",
+    "status": "forming"
+  },
+  "ASX|1d|Double Top|2026-03-18 00:00:00": {
+    "first_seen": "2026-09-07T15:38:19.836560+00:00",
+    "status": "forming"
+  },
+  "ASX|1d|Double Top|2026-06-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:19.958956+00:00",
+    "status": "confirmed"
+  },
+  "ASX|1d|Double Bottom|2025-09-12 00:00:00": {
+    "first_seen": "2026-09-07T15:38:20.082087+00:00",
+    "status": "confirmed"
+  },
+  "ASX|1d|Double Bottom|2026-03-09 00:00:00": {
+    "first_seen": "2026-09-07T15:38:20.223868+00:00",
+    "status": "confirmed"
+  },
+  "ASX|1d|Double Bottom|2026-04-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:20.458769+00:00",
+    "status": "confirmed"
+  },
+  "ASX|1d|Double Bottom|2026-06-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:20.605653+00:00",
+    "status": "forming"
+  },
+  "ASX|1d|Inverse Head & Shoulders|2025-09-12 00:00:00": {
+    "first_seen": "2026-09-07T15:38:20.726417+00:00",
+    "status": "confirmed"
+  },
+  "ASX|1d|Inverse Head & Shoulders|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:20.847653+00:00",
+    "status": "confirmed"
+  },
+  "ASX|1d|Inverse Head & Shoulders|2026-03-19 00:00:00": {
+    "first_seen": "2026-09-07T15:38:20.972495+00:00",
+    "status": "confirmed"
+  },
+  "ASX|1d|Inverse Head & Shoulders|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:21.170145+00:00",
+    "status": "forming"
+  },
+  "ASX|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:21.294745+00:00",
+    "status": "forming"
+  },
+  "ASX|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:38:21.422557+00:00",
+    "status": "confirmed"
+  },
+  "GFS|1d|Double Top|2026-02-12 00:00:00": {
+    "first_seen": "2026-09-07T15:38:21.956031+00:00",
+    "status": "forming"
+  },
+  "GFS|1d|Double Top|2026-06-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:22.075745+00:00",
+    "status": "confirmed"
+  },
+  "GFS|1d|Double Bottom|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:38:22.287182+00:00",
+    "status": "confirmed"
+  },
+  "GFS|1d|Double Bottom|2026-01-20 00:00:00": {
+    "first_seen": "2026-09-07T15:38:22.409161+00:00",
+    "status": "forming"
+  },
+  "GFS|1d|Double Bottom|2026-03-12 00:00:00": {
+    "first_seen": "2026-09-07T15:38:22.528712+00:00",
+    "status": "confirmed"
+  },
+  "GFS|1d|Double Bottom|2026-03-19 00:00:00": {
+    "first_seen": "2026-09-07T15:38:22.647793+00:00",
+    "status": "forming"
+  },
+  "GFS|1d|Double Bottom|2026-07-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:22.766324+00:00",
+    "status": "forming"
+  },
+  "GFS|1d|Head & Shoulders|2026-03-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:22.971217+00:00",
+    "status": "forming"
+  },
+  "GFS|1d|Inverse Head & Shoulders|2026-03-19 00:00:00": {
+    "first_seen": "2026-09-07T15:38:23.088994+00:00",
+    "status": "forming"
+  },
+  "GFS|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:23.205059+00:00",
+    "status": "confirmed"
+  },
+  "COHR|1d|Double Top|2025-10-09 00:00:00": {
+    "first_seen": "2026-09-07T15:38:23.712179+00:00",
+    "status": "forming"
+  },
+  "COHR|1d|Double Top|2025-12-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:23.835253+00:00",
+    "status": "forming"
+  },
+  "COHR|1d|Double Top|2025-12-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:24.077541+00:00",
+    "status": "forming"
+  },
+  "COHR|1d|Double Top|2026-06-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:24.207443+00:00",
+    "status": "confirmed"
+  },
+  "COHR|1d|Double Bottom|2025-09-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:24.377896+00:00",
+    "status": "confirmed"
+  },
+  "COHR|1d|Double Bottom|2025-10-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:24.502496+00:00",
+    "status": "confirmed"
+  },
+  "COHR|1d|Double Bottom|2026-05-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:24.630147+00:00",
+    "status": "forming"
+  },
+  "COHR|1d|Inverse Head & Shoulders|2025-10-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:24.857343+00:00",
+    "status": "confirmed"
+  },
+  "COHR|1d|Inverse Head & Shoulders|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:24.982982+00:00",
+    "status": "forming"
+  },
+  "COHR|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:25.100363+00:00",
+    "status": "confirmed"
+  },
+  "TSEM|1d|Double Top|2025-10-06 00:00:00": {
+    "first_seen": "2026-09-07T15:38:25.616946+00:00",
+    "status": "forming"
+  },
+  "TSEM|1d|Double Top|2025-11-12 00:00:00": {
+    "first_seen": "2026-09-07T15:38:25.733313+00:00",
+    "status": "forming"
+  },
+  "TSEM|1d|Double Top|2026-04-20 00:00:00": {
+    "first_seen": "2026-09-07T15:38:25.943355+00:00",
+    "status": "forming"
+  },
+  "TSEM|1d|Double Bottom|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:26.066814+00:00",
+    "status": "confirmed"
+  },
+  "TSEM|1d|Double Bottom|2025-12-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:26.186913+00:00",
+    "status": "confirmed"
+  },
+  "TSEM|1d|Double Bottom|2026-05-19 00:00:00": {
+    "first_seen": "2026-09-07T15:38:26.300084+00:00",
+    "status": "forming"
+  },
+  "TSEM|1d|Head & Shoulders|2026-02-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:26.421604+00:00",
+    "status": "forming"
+  },
+  "TSEM|1d|Head & Shoulders|2026-05-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:26.617270+00:00",
+    "status": "confirmed"
+  },
+  "TSEM|1d|Inverse Head & Shoulders|2026-01-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:26.737932+00:00",
+    "status": "confirmed"
+  },
+  "TSEM|1d|Inverse Head & Shoulders|2026-04-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:26.858170+00:00",
+    "status": "forming"
+  },
+  "TSEM|1d|Inverse Head & Shoulders|2026-06-09 00:00:00": {
+    "first_seen": "2026-09-07T15:38:26.982635+00:00",
+    "status": "forming"
+  },
+  "TSEM|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:27.109426+00:00",
+    "status": "forming"
+  },
+  "AAOI|1d|Double Top|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:27.625993+00:00",
+    "status": "forming"
+  },
+  "AAOI|1d|Double Top|2026-01-05 00:00:00": {
+    "first_seen": "2026-09-07T15:38:27.859555+00:00",
+    "status": "forming"
+  },
+  "AAOI|1d|Head & Shoulders|2026-05-01 00:00:00": {
+    "first_seen": "2026-09-07T15:38:27.983553+00:00",
+    "status": "confirmed"
+  },
+  "AAOI|1d|Head & Shoulders|2026-05-26 00:00:00": {
+    "first_seen": "2026-09-07T15:38:28.112243+00:00",
+    "status": "confirmed"
+  },
+  "AAOI|1d|Inverse Head & Shoulders|2026-05-19 00:00:00": {
+    "first_seen": "2026-09-07T15:38:28.240168+00:00",
+    "status": "forming"
+  },
+  "AAOI|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:28.366445+00:00",
+    "status": "forming"
+  },
+  "MTSI|1d|Double Top|2025-09-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:28.976411+00:00",
+    "status": "forming"
+  },
+  "MTSI|1d|Double Top|2026-06-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:29.093850+00:00",
+    "status": "confirmed"
+  },
+  "MTSI|1d|Double Bottom|2025-09-30 00:00:00": {
+    "first_seen": "2026-09-07T15:38:29.216176+00:00",
+    "status": "confirmed"
+  },
+  "MTSI|1d|Double Bottom|2025-12-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:29.341596+00:00",
+    "status": "confirmed"
+  },
+  "MTSI|1d|Double Bottom|2026-03-19 00:00:00": {
+    "first_seen": "2026-09-07T15:38:29.458416+00:00",
+    "status": "confirmed"
+  },
+  "MTSI|1d|Double Bottom|2026-05-19 00:00:00": {
+    "first_seen": "2026-09-07T15:38:29.664283+00:00",
+    "status": "forming"
+  },
+  "MTSI|1d|Head & Shoulders|2026-01-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:29.792220+00:00",
+    "status": "forming"
+  },
+  "MTSI|1d|Head & Shoulders|2026-05-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:29.912422+00:00",
+    "status": "confirmed"
+  },
+  "MTSI|1d|Head & Shoulders|2026-07-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:30.041682+00:00",
+    "status": "forming"
+  },
+  "MTSI|1d|Inverse Head & Shoulders|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:30.170511+00:00",
+    "status": "forming"
+  },
+  "MTSI|1d|Triunghi descendent|": {
+    "first_seen": "2026-09-07T15:38:30.388315+00:00",
+    "status": "forming"
+  },
+  "LITE|1d|Double Top|2025-09-18 00:00:00": {
+    "first_seen": "2026-09-07T15:38:30.940277+00:00",
+    "status": "forming"
+  },
+  "LITE|1d|Double Top|2025-12-24 00:00:00": {
+    "first_seen": "2026-09-07T15:38:31.054895+00:00",
+    "status": "forming"
+  },
+  "LITE|1d|Double Top|2026-01-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:31.180799+00:00",
+    "status": "forming"
+  },
+  "LITE|1d|Double Top|2026-08-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:31.307617+00:00",
+    "status": "forming"
+  },
+  "LITE|1d|Double Bottom|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:38:31.514869+00:00",
+    "status": "confirmed"
+  },
+  "LITE|1d|Double Bottom|2026-04-15 00:00:00": {
+    "first_seen": "2026-09-07T15:38:31.629501+00:00",
+    "status": "forming"
+  },
+  "LITE|1d|Double Bottom|2026-05-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:31.748147+00:00",
+    "status": "forming"
+  },
+  "LITE|1d|Double Bottom|2026-08-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:31.864717+00:00",
+    "status": "forming"
+  },
+  "LITE|1d|Head & Shoulders|2025-09-18 00:00:00": {
+    "first_seen": "2026-09-07T15:38:31.985730+00:00",
+    "status": "forming"
+  },
+  "LITE|1d|Head & Shoulders|2025-12-24 00:00:00": {
+    "first_seen": "2026-09-07T15:38:32.208104+00:00",
+    "status": "forming"
+  },
+  "LITE|1d|Head & Shoulders|2026-05-05 00:00:00": {
+    "first_seen": "2026-09-07T15:38:32.335330+00:00",
+    "status": "forming"
+  },
+  "LITE|1d|Head & Shoulders|2026-05-21 00:00:00": {
+    "first_seen": "2026-09-07T15:38:32.453559+00:00",
+    "status": "forming"
+  },
+  "APH|1d|Double Top|2025-09-23 00:00:00": {
+    "first_seen": "2026-09-07T15:38:33.026283+00:00",
+    "status": "forming"
+  },
+  "APH|1d|Double Top|2025-11-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:33.192266+00:00",
+    "status": "forming"
+  },
+  "APH|1d|Double Top|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:38:33.398644+00:00",
+    "status": "forming"
+  },
+  "APH|1d|Double Top|2026-04-21 00:00:00": {
+    "first_seen": "2026-09-07T15:38:33.519012+00:00",
+    "status": "forming"
+  },
+  "APH|1d|Double Bottom|2025-09-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:33.642070+00:00",
+    "status": "confirmed"
+  },
+  "APH|1d|Double Bottom|2025-11-21 00:00:00": {
+    "first_seen": "2026-09-07T15:38:33.765643+00:00",
+    "status": "confirmed"
+  },
+  "APH|1d|Double Bottom|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:38:33.887843+00:00",
+    "status": "confirmed"
+  },
+  "APH|1d|Double Bottom|2026-06-24 00:00:00": {
+    "first_seen": "2026-09-07T15:38:34.089327+00:00",
+    "status": "forming"
+  },
+  "APH|1d|Head & Shoulders|2025-09-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:34.211392+00:00",
+    "status": "forming"
+  },
+  "APH|1d|Head & Shoulders|2026-06-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:34.334672+00:00",
+    "status": "forming"
+  },
+  "APH|1d|Inverse Head & Shoulders|2025-11-21 00:00:00": {
+    "first_seen": "2026-09-07T15:38:34.457362+00:00",
+    "status": "confirmed"
+  },
+  "FN|1d|Double Top|2026-02-25 00:00:00": {
+    "first_seen": "2026-09-07T15:38:34.976103+00:00",
+    "status": "confirmed"
+  },
+  "FN|1d|Double Top|2026-04-24 00:00:00": {
+    "first_seen": "2026-09-07T15:38:35.100838+00:00",
+    "status": "confirmed"
+  },
+  "FN|1d|Double Top|2026-05-04 00:00:00": {
+    "first_seen": "2026-09-07T15:38:35.317510+00:00",
+    "status": "confirmed"
+  },
+  "FN|1d|Double Top|2026-05-26 00:00:00": {
+    "first_seen": "2026-09-07T15:38:35.439421+00:00",
+    "status": "confirmed"
+  },
+  "FN|1d|Double Bottom|2025-09-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:35.563999+00:00",
+    "status": "confirmed"
+  },
+  "FN|1d|Double Bottom|2025-11-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:35.692032+00:00",
+    "status": "forming"
+  },
+  "FN|1d|Double Bottom|2025-12-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:35.816846+00:00",
+    "status": "forming"
+  },
+  "FN|1d|Double Bottom|2025-12-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:36.021505+00:00",
+    "status": "forming"
+  },
+  "FN|1d|Double Bottom|2026-03-19 00:00:00": {
+    "first_seen": "2026-09-07T15:38:36.172259+00:00",
+    "status": "forming"
+  },
+  "FN|1d|Double Bottom|2026-07-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:36.296158+00:00",
+    "status": "forming"
+  },
+  "FN|1d|Head & Shoulders|2026-01-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:36.418704+00:00",
+    "status": "confirmed"
+  },
+  "FN|1d|Head & Shoulders|2026-04-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:36.548594+00:00",
+    "status": "confirmed"
+  },
+  "FN|1d|Head & Shoulders|2026-05-04 00:00:00": {
+    "first_seen": "2026-09-07T15:38:36.758803+00:00",
+    "status": "confirmed"
+  },
+  "FN|1d|Inverse Head & Shoulders|2025-12-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:36.884728+00:00",
+    "status": "forming"
+  },
+  "FN|1d|Inverse Head & Shoulders|2026-04-28 00:00:00": {
+    "first_seen": "2026-09-07T15:38:37.011279+00:00",
+    "status": "forming"
+  },
+  "CRDO|1d|Double Top|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:37.583658+00:00",
+    "status": "forming"
+  },
+  "CRDO|1d|Double Top|2025-12-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:37.717221+00:00",
+    "status": "forming"
+  },
+  "CRDO|1d|Double Bottom|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:38:37.918615+00:00",
+    "status": "confirmed"
+  },
+  "CRDO|1d|Head & Shoulders|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:38:38.041205+00:00",
+    "status": "forming"
+  },
+  "CRDO|1d|Head & Shoulders|2026-01-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:38.167191+00:00",
+    "status": "forming"
+  },
+  "CRDO|1d|Head & Shoulders|2026-07-23 00:00:00": {
+    "first_seen": "2026-09-07T15:38:38.287295+00:00",
+    "status": "confirmed"
+  },
+  "CRDO|1d|Inverse Head & Shoulders|2025-11-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:38.411237+00:00",
+    "status": "forming"
+  },
+  "CRDO|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:38:38.624090+00:00",
+    "status": "confirmed"
+  },
+  "ROG|1d|Double Top|2025-09-18 00:00:00": {
+    "first_seen": "2026-09-07T15:38:39.174048+00:00",
+    "status": "forming"
+  },
+  "ROG|1d|Double Top|2025-10-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:39.287844+00:00",
+    "status": "forming"
+  },
+  "ROG|1d|Double Top|2025-12-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:39.403049+00:00",
+    "status": "forming"
+  },
+  "ROG|1d|Double Top|2026-02-12 00:00:00": {
+    "first_seen": "2026-09-07T15:38:39.526444+00:00",
+    "status": "forming"
+  },
+  "ROG|1d|Double Top|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:38:39.739073+00:00",
+    "status": "forming"
+  },
+  "ROG|1d|Double Top|2026-05-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:39.861248+00:00",
+    "status": "confirmed"
+  },
+  "ROG|1d|Double Top|2026-07-15 00:00:00": {
+    "first_seen": "2026-09-07T15:38:39.978240+00:00",
+    "status": "confirmed"
+  },
+  "ROG|1d|Double Bottom|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:40.093551+00:00",
+    "status": "confirmed"
+  },
+  "ROG|1d|Double Bottom|2026-01-08 00:00:00": {
+    "first_seen": "2026-09-07T15:38:40.205811+00:00",
+    "status": "confirmed"
+  },
+  "ROG|1d|Double Bottom|2026-02-18 00:00:00": {
+    "first_seen": "2026-09-07T15:38:40.324361+00:00",
+    "status": "confirmed"
+  },
+  "ROG|1d|Double Bottom|2026-07-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:40.532228+00:00",
+    "status": "forming"
+  },
+  "ROG|1d|Head & Shoulders|2025-10-24 00:00:00": {
+    "first_seen": "2026-09-07T15:38:40.648833+00:00",
+    "status": "forming"
+  },
+  "ROG|1d|Inverse Head & Shoulders|2026-05-12 00:00:00": {
+    "first_seen": "2026-09-07T15:38:40.765932+00:00",
+    "status": "forming"
+  },
+  "ROG|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:38:40.882297+00:00",
+    "status": "forming"
+  },
+  "VICR|1d|Double Top|2026-02-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:41.592934+00:00",
+    "status": "forming"
+  },
+  "VICR|1d|Double Top|2026-05-27 00:00:00": {
+    "first_seen": "2026-09-07T15:38:41.814388+00:00",
+    "status": "confirmed"
+  },
+  "VICR|1d|Double Top|2026-07-24 00:00:00": {
+    "first_seen": "2026-09-07T15:38:42.056163+00:00",
+    "status": "forming"
+  },
+  "VICR|1d|Double Bottom|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:42.171001+00:00",
+    "status": "confirmed"
+  },
+  "VICR|1d|Head & Shoulders|2026-01-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:42.290719+00:00",
+    "status": "forming"
+  },
+  "MPWR|1d|Double Top|2025-12-08 00:00:00": {
+    "first_seen": "2026-09-07T15:38:42.847542+00:00",
+    "status": "forming"
+  },
+  "MPWR|1d|Double Top|2026-05-13 00:00:00": {
+    "first_seen": "2026-09-07T15:38:42.974171+00:00",
+    "status": "confirmed"
+  },
+  "MPWR|1d|Double Top|2026-05-26 00:00:00": {
+    "first_seen": "2026-09-07T15:38:43.167564+00:00",
+    "status": "confirmed"
+  },
+  "MPWR|1d|Double Top|2026-07-15 00:00:00": {
+    "first_seen": "2026-09-07T15:38:43.283849+00:00",
+    "status": "confirmed"
+  },
+  "MPWR|1d|Double Bottom|2025-12-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:43.399697+00:00",
+    "status": "confirmed"
+  },
+  "MPWR|1d|Double Bottom|2026-07-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:43.522973+00:00",
+    "status": "forming"
+  },
+  "MPWR|1d|Double Bottom|2026-07-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:43.644995+00:00",
+    "status": "forming"
+  },
+  "MPWR|1d|Head & Shoulders|2026-05-13 00:00:00": {
+    "first_seen": "2026-09-07T15:38:43.844594+00:00",
+    "status": "confirmed"
+  },
+  "MPWR|1d|Inverse Head & Shoulders|2026-05-12 00:00:00": {
+    "first_seen": "2026-09-07T15:38:43.967342+00:00",
+    "status": "forming"
+  },
+  "MPWR|1d|Inverse Head & Shoulders|2026-07-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:44.086982+00:00",
+    "status": "forming"
+  },
+  "MPWR|1d|Triunghi simetric|": {
+    "first_seen": "2026-09-07T15:38:44.207978+00:00",
+    "status": "confirmed"
+  },
+  "MPWR|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:38:44.328536+00:00",
+    "status": "forming"
+  },
+  "NVT|1d|Double Top|2025-09-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:44.933567+00:00",
+    "status": "forming"
+  },
+  "NVT|1d|Double Top|2025-10-31 00:00:00": {
+    "first_seen": "2026-09-07T15:38:45.052982+00:00",
+    "status": "forming"
+  },
+  "NVT|1d|Double Top|2025-11-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:45.177340+00:00",
+    "status": "forming"
+  },
+  "NVT|1d|Double Top|2026-02-18 00:00:00": {
+    "first_seen": "2026-09-07T15:38:45.294038+00:00",
+    "status": "forming"
+  },
+  "NVT|1d|Double Top|2026-05-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:45.418019+00:00",
+    "status": "forming"
+  },
+  "NVT|1d|Double Top|2026-07-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:45.615768+00:00",
+    "status": "forming"
+  },
+  "NVT|1d|Double Bottom|2025-09-16 00:00:00": {
+    "first_seen": "2026-09-07T15:38:45.727105+00:00",
+    "status": "confirmed"
+  },
+  "NVT|1d|Double Bottom|2025-12-31 00:00:00": {
+    "first_seen": "2026-09-07T15:38:45.838957+00:00",
+    "status": "confirmed"
+  },
+  "NVT|1d|Double Bottom|2026-02-13 00:00:00": {
+    "first_seen": "2026-09-07T15:38:45.950163+00:00",
+    "status": "confirmed"
+  },
+  "NVT|1d|Double Bottom|2026-07-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:46.066282+00:00",
+    "status": "forming"
+  },
+  "NVT|1d|Head & Shoulders|2025-11-28 00:00:00": {
+    "first_seen": "2026-09-07T15:38:46.251363+00:00",
+    "status": "forming"
+  },
+  "NVT|1d|Inverse Head & Shoulders|2025-09-16 00:00:00": {
+    "first_seen": "2026-09-07T15:38:46.362056+00:00",
+    "status": "confirmed"
+  },
+  "NVT|1d|Inverse Head & Shoulders|2025-11-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:46.473646+00:00",
+    "status": "confirmed"
+  },
+  "NVT|1d|Inverse Head & Shoulders|2025-12-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:46.585327+00:00",
+    "status": "confirmed"
+  },
+  "NVT|1d|Inverse Head & Shoulders|2026-02-23 00:00:00": {
+    "first_seen": "2026-09-07T15:38:46.698138+00:00",
+    "status": "confirmed"
+  },
+  "NVT|1d|Inverse Head & Shoulders|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:46.883699+00:00",
+    "status": "forming"
+  },
+  "NVT|1d|Triunghi descendent|": {
+    "first_seen": "2026-09-07T15:38:46.999080+00:00",
+    "status": "forming"
+  },
+  "NVT|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:47.110859+00:00",
+    "status": "forming"
+  },
+  "TT|1d|Double Top|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:47.829803+00:00",
+    "status": "forming"
+  },
+  "TT|1d|Double Top|2025-10-06 00:00:00": {
+    "first_seen": "2026-09-07T15:38:47.945893+00:00",
+    "status": "forming"
+  },
+  "TT|1d|Double Top|2025-12-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:48.059984+00:00",
+    "status": "forming"
+  },
+  "TT|1d|Double Top|2026-01-05 00:00:00": {
+    "first_seen": "2026-09-07T15:38:48.260104+00:00",
+    "status": "forming"
+  },
+  "TT|1d|Double Top|2026-02-12 00:00:00": {
+    "first_seen": "2026-09-07T15:38:48.380275+00:00",
+    "status": "confirmed"
+  },
+  "TT|1d|Double Top|2026-05-27 00:00:00": {
+    "first_seen": "2026-09-07T15:38:48.500549+00:00",
+    "status": "forming"
+  },
+  "TT|1d|Double Top|2026-07-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:48.620805+00:00",
+    "status": "confirmed"
+  },
+  "TT|1d|Double Bottom|2025-10-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:48.745559+00:00",
+    "status": "confirmed"
+  },
+  "TT|1d|Double Bottom|2026-03-20 00:00:00": {
+    "first_seen": "2026-09-07T15:38:48.957798+00:00",
+    "status": "confirmed"
+  },
+  "TT|1d|Double Bottom|2026-04-28 00:00:00": {
+    "first_seen": "2026-09-07T15:38:49.080055+00:00",
+    "status": "forming"
+  },
+  "TT|1d|Double Bottom|2026-05-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:49.203587+00:00",
+    "status": "forming"
+  },
+  "TT|1d|Double Bottom|2026-07-09 00:00:00": {
+    "first_seen": "2026-09-07T15:38:49.326503+00:00",
+    "status": "forming"
+  },
+  "TT|1d|Inverse Head & Shoulders|2025-12-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:49.448252+00:00",
+    "status": "confirmed"
+  },
+  "TT|1d|Inverse Head & Shoulders|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:49.659910+00:00",
+    "status": "forming"
+  },
+  "TT|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:38:49.783019+00:00",
+    "status": "confirmed"
+  },
+  "WDC|1d|Double Top|2025-12-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:50.345857+00:00",
+    "status": "forming"
+  },
+  "WDC|1d|Double Top|2026-07-23 00:00:00": {
+    "first_seen": "2026-09-07T15:38:50.465772+00:00",
+    "status": "forming"
+  },
+  "WDC|1d|Double Bottom|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:50.587011+00:00",
+    "status": "forming"
+  },
+  "WDC|1d|Double Bottom|2026-08-06 00:00:00": {
+    "first_seen": "2026-09-07T15:38:50.787547+00:00",
+    "status": "forming"
+  },
+  "WDC|1d|Head & Shoulders|2026-06-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:50.913516+00:00",
+    "status": "confirmed"
+  },
+  "WDC|1d|Inverse Head & Shoulders|2026-07-28 00:00:00": {
+    "first_seen": "2026-09-07T15:38:51.045201+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Double Top|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:51.627577+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Double Top|2025-09-23 00:00:00": {
+    "first_seen": "2026-09-07T15:38:51.752136+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Double Top|2025-11-26 00:00:00": {
+    "first_seen": "2026-09-07T15:38:51.962613+00:00",
+    "status": "confirmed"
+  },
+  "SPXC|1d|Double Top|2025-12-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:52.087676+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Double Top|2026-05-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:52.218274+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Double Top|2026-06-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:52.344760+00:00",
+    "status": "confirmed"
+  },
+  "SPXC|1d|Double Top|2026-07-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:52.470057+00:00",
+    "status": "confirmed"
+  },
+  "SPXC|1d|Double Bottom|2025-09-16 00:00:00": {
+    "first_seen": "2026-09-07T15:38:52.672260+00:00",
+    "status": "confirmed"
+  },
+  "SPXC|1d|Double Bottom|2025-12-08 00:00:00": {
+    "first_seen": "2026-09-07T15:38:52.799451+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Double Bottom|2026-03-30 00:00:00": {
+    "first_seen": "2026-09-07T15:38:52.925738+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Double Bottom|2026-05-04 00:00:00": {
+    "first_seen": "2026-09-07T15:38:53.051855+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Double Bottom|2026-07-08 00:00:00": {
+    "first_seen": "2026-09-07T15:38:53.175460+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Head & Shoulders|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:53.376205+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Head & Shoulders|2025-11-26 00:00:00": {
+    "first_seen": "2026-09-07T15:38:53.504869+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Head & Shoulders|2026-07-27 00:00:00": {
+    "first_seen": "2026-09-07T15:38:53.631816+00:00",
+    "status": "confirmed"
+  },
+  "SPXC|1d|Inverse Head & Shoulders|2025-09-16 00:00:00": {
+    "first_seen": "2026-09-07T15:38:53.758092+00:00",
+    "status": "confirmed"
+  },
+  "SPXC|1d|Inverse Head & Shoulders|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:53.886601+00:00",
+    "status": "forming"
+  },
+  "SPXC|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:38:54.092992+00:00",
+    "status": "confirmed"
+  },
+  "MOD|1d|Double Top|2025-10-16 00:00:00": {
+    "first_seen": "2026-09-07T15:38:54.679913+00:00",
+    "status": "forming"
+  },
+  "MOD|1d|Double Top|2025-11-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:54.803815+00:00",
+    "status": "forming"
+  },
+  "MOD|1d|Double Top|2025-11-28 00:00:00": {
+    "first_seen": "2026-09-07T15:38:54.924405+00:00",
+    "status": "forming"
+  },
+  "MOD|1d|Double Top|2026-04-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:55.045131+00:00",
+    "status": "confirmed"
+  },
+  "MOD|1d|Double Top|2026-07-09 00:00:00": {
+    "first_seen": "2026-09-07T15:38:55.249654+00:00",
+    "status": "confirmed"
+  },
+  "MOD|1d|Double Bottom|2025-10-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:55.366663+00:00",
+    "status": "confirmed"
+  },
+  "MOD|1d|Double Bottom|2026-04-16 00:00:00": {
+    "first_seen": "2026-09-07T15:38:55.483288+00:00",
+    "status": "forming"
+  },
+  "MOD|1d|Double Bottom|2026-04-28 00:00:00": {
+    "first_seen": "2026-09-07T15:38:55.603548+00:00",
+    "status": "forming"
+  },
+  "MOD|1d|Double Bottom|2026-07-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:55.724816+00:00",
+    "status": "forming"
+  },
+  "MOD|1d|Double Bottom|2026-08-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:55.920862+00:00",
+    "status": "forming"
+  },
+  "MOD|1d|Head & Shoulders|2025-10-16 00:00:00": {
+    "first_seen": "2026-09-07T15:38:56.041356+00:00",
+    "status": "forming"
+  },
+  "MOD|1d|Inverse Head & Shoulders|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:38:56.168091+00:00",
+    "status": "confirmed"
+  },
+  "MOD|1d|Inverse Head & Shoulders|2026-04-16 00:00:00": {
+    "first_seen": "2026-09-07T15:38:56.296006+00:00",
+    "status": "forming"
+  },
+  "MOD|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:38:56.421577+00:00",
+    "status": "forming"
+  },
+  "EME|1d|Double Top|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:38:57.096776+00:00",
+    "status": "forming"
+  },
+  "EME|1d|Double Top|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:57.220464+00:00",
+    "status": "forming"
+  },
+  "EME|1d|Double Top|2025-12-08 00:00:00": {
+    "first_seen": "2026-09-07T15:38:57.339047+00:00",
+    "status": "forming"
+  },
+  "EME|1d|Double Top|2026-05-27 00:00:00": {
+    "first_seen": "2026-09-07T15:38:57.460934+00:00",
+    "status": "confirmed"
+  },
+  "EME|1d|Double Top|2026-06-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:57.579100+00:00",
+    "status": "confirmed"
+  },
+  "EME|1d|Double Bottom|2025-09-17 00:00:00": {
+    "first_seen": "2026-09-07T15:38:57.781512+00:00",
+    "status": "confirmed"
+  },
+  "EME|1d|Double Bottom|2025-10-14 00:00:00": {
+    "first_seen": "2026-09-07T15:38:57.907510+00:00",
+    "status": "confirmed"
+  },
+  "EME|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:58.028762+00:00",
+    "status": "forming"
+  },
+  "EME|1d|Double Bottom|2025-12-03 00:00:00": {
+    "first_seen": "2026-09-07T15:38:58.151578+00:00",
+    "status": "confirmed"
+  },
+  "EME|1d|Double Bottom|2026-02-04 00:00:00": {
+    "first_seen": "2026-09-07T15:38:58.276113+00:00",
+    "status": "forming"
+  },
+  "EME|1d|Double Bottom|2026-04-29 00:00:00": {
+    "first_seen": "2026-09-07T15:38:58.506772+00:00",
+    "status": "forming"
+  },
+  "EME|1d|Double Bottom|2026-05-22 00:00:00": {
+    "first_seen": "2026-09-07T15:38:58.630404+00:00",
+    "status": "forming"
+  },
+  "EME|1d|Inverse Head & Shoulders|2026-02-04 00:00:00": {
+    "first_seen": "2026-09-07T15:38:58.755919+00:00",
+    "status": "forming"
+  },
+  "EME|1d|Triunghi descendent|": {
+    "first_seen": "2026-09-07T15:38:58.881355+00:00",
+    "status": "forming"
+  },
+  "CC|1d|Double Top|2025-10-15 00:00:00": {
+    "first_seen": "2026-09-07T15:38:59.404388+00:00",
+    "status": "forming"
+  },
+  "CC|1d|Double Top|2025-11-10 00:00:00": {
+    "first_seen": "2026-09-07T15:38:59.619370+00:00",
+    "status": "forming"
+  },
+  "CC|1d|Double Top|2026-06-02 00:00:00": {
+    "first_seen": "2026-09-07T15:38:59.737973+00:00",
+    "status": "confirmed"
+  },
+  "CC|1d|Double Top|2026-07-15 00:00:00": {
+    "first_seen": "2026-09-07T15:38:59.860766+00:00",
+    "status": "confirmed"
+  },
+  "CC|1d|Double Top|2026-08-19 00:00:00": {
+    "first_seen": "2026-09-07T15:38:59.989299+00:00",
+    "status": "forming"
+  },
+  "CC|1d|Double Bottom|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:00.113904+00:00",
+    "status": "confirmed"
+  },
+  "CC|1d|Double Bottom|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:00.240522+00:00",
+    "status": "confirmed"
+  },
+  "CC|1d|Double Bottom|2025-12-16 00:00:00": {
+    "first_seen": "2026-09-07T15:39:00.468193+00:00",
+    "status": "confirmed"
+  },
+  "CC|1d|Double Bottom|2026-07-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:00.587061+00:00",
+    "status": "forming"
+  },
+  "CC|1d|Double Bottom|2026-08-25 00:00:00": {
+    "first_seen": "2026-09-07T15:39:00.711036+00:00",
+    "status": "forming"
+  },
+  "CC|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:39:00.831524+00:00",
+    "status": "forming"
+  },
+  "CC|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:00.962235+00:00",
+    "status": "confirmed"
+  },
+  "ENTG|1d|Double Top|2025-09-23 00:00:00": {
+    "first_seen": "2026-09-07T15:39:01.593398+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Double Top|2025-10-16 00:00:00": {
+    "first_seen": "2026-09-07T15:39:01.710749+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Double Top|2025-10-29 00:00:00": {
+    "first_seen": "2026-09-07T15:39:01.828181+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Double Top|2026-02-11 00:00:00": {
+    "first_seen": "2026-09-07T15:39:01.953171+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Double Top|2026-03-25 00:00:00": {
+    "first_seen": "2026-09-07T15:39:02.084956+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Double Top|2026-04-24 00:00:00": {
+    "first_seen": "2026-09-07T15:39:02.314659+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:02.446018+00:00",
+    "status": "confirmed"
+  },
+  "ENTG|1d|Double Bottom|2026-03-19 00:00:00": {
+    "first_seen": "2026-09-07T15:39:02.567975+00:00",
+    "status": "confirmed"
+  },
+  "ENTG|1d|Double Bottom|2026-05-19 00:00:00": {
+    "first_seen": "2026-09-07T15:39:02.700093+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Head & Shoulders|2025-10-16 00:00:00": {
+    "first_seen": "2026-09-07T15:39:02.831041+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Head & Shoulders|2026-06-03 00:00:00": {
+    "first_seen": "2026-09-07T15:39:03.041506+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Head & Shoulders|2026-07-21 00:00:00": {
+    "first_seen": "2026-09-07T15:39:03.173539+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Triunghi simetric|": {
+    "first_seen": "2026-09-07T15:39:03.307520+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:03.436270+00:00",
+    "status": "forming"
+  },
+  "ENTG|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:39:03.567317+00:00",
+    "status": "forming"
+  },
+  "MRK|1d|Double Top|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:39:04.398278+00:00",
+    "status": "forming"
+  },
+  "MRK|1d|Double Top|2025-10-02 00:00:00": {
+    "first_seen": "2026-09-07T15:39:04.522985+00:00",
+    "status": "forming"
+  },
+  "MRK|1d|Double Top|2025-11-25 00:00:00": {
+    "first_seen": "2026-09-07T15:39:04.649101+00:00",
+    "status": "forming"
+  },
+  "MRK|1d|Double Top|2026-01-08 00:00:00": {
+    "first_seen": "2026-09-07T15:39:04.771149+00:00",
+    "status": "forming"
+  },
+  "MRK|1d|Double Top|2026-02-06 00:00:00": {
+    "first_seen": "2026-09-07T15:39:04.892546+00:00",
+    "status": "forming"
+  },
+  "MRK|1d|Double Top|2026-02-25 00:00:00": {
+    "first_seen": "2026-09-07T15:39:05.123303+00:00",
+    "status": "forming"
+  },
+  "MRK|1d|Double Top|2026-05-04 00:00:00": {
+    "first_seen": "2026-09-07T15:39:05.243379+00:00",
+    "status": "forming"
+  },
+  "MRK|1d|Double Top|2026-06-30 00:00:00": {
+    "first_seen": "2026-09-07T15:39:05.362536+00:00",
+    "status": "forming"
+  },
+  "MRK|1d|Double Bottom|2025-10-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:05.482049+00:00",
+    "status": "confirmed"
+  },
+  "MRK|1d|Double Bottom|2026-01-02 00:00:00": {
+    "first_seen": "2026-09-07T15:39:05.608138+00:00",
+    "status": "confirmed"
+  },
+  "MRK|1d|Double Bottom|2026-02-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:05.837221+00:00",
+    "status": "confirmed"
+  },
+  "MRK|1d|Double Bottom|2026-04-29 00:00:00": {
+    "first_seen": "2026-09-07T15:39:05.972321+00:00",
+    "status": "confirmed"
+  },
+  "MRK|1d|Head & Shoulders|2025-12-29 00:00:00": {
+    "first_seen": "2026-09-07T15:39:06.099109+00:00",
+    "status": "forming"
+  },
+  "MRK|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:06.220239+00:00",
+    "status": "confirmed"
+  },
+  "MRK|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:39:06.344968+00:00",
+    "status": "forming"
+  },
+  "LIN|1d|Double Top|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:39:07.053123+00:00",
+    "status": "forming"
+  },
+  "LIN|1d|Double Top|2025-09-30 00:00:00": {
+    "first_seen": "2026-09-07T15:39:07.179185+00:00",
+    "status": "forming"
+  },
+  "LIN|1d|Double Top|2026-03-30 00:00:00": {
+    "first_seen": "2026-09-07T15:39:07.297077+00:00",
+    "status": "confirmed"
+  },
+  "LIN|1d|Double Top|2026-05-01 00:00:00": {
+    "first_seen": "2026-09-07T15:39:07.425100+00:00",
+    "status": "confirmed"
+  },
+  "LIN|1d|Double Top|2026-05-15 00:00:00": {
+    "first_seen": "2026-09-07T15:39:07.549750+00:00",
+    "status": "confirmed"
+  },
+  "LIN|1d|Double Top|2026-06-15 00:00:00": {
+    "first_seen": "2026-09-07T15:39:07.779319+00:00",
+    "status": "confirmed"
+  },
+  "LIN|1d|Double Bottom|2025-09-16 00:00:00": {
+    "first_seen": "2026-09-07T15:39:07.904479+00:00",
+    "status": "confirmed"
+  },
+  "LIN|1d|Double Bottom|2025-11-03 00:00:00": {
+    "first_seen": "2026-09-07T15:39:08.023786+00:00",
+    "status": "confirmed"
+  },
+  "LIN|1d|Double Bottom|2026-01-02 00:00:00": {
+    "first_seen": "2026-09-07T15:39:08.147565+00:00",
+    "status": "confirmed"
+  },
+  "LIN|1d|Double Bottom|2026-03-11 00:00:00": {
+    "first_seen": "2026-09-07T15:39:08.269249+00:00",
+    "status": "forming"
+  },
+  "LIN|1d|Double Bottom|2026-04-08 00:00:00": {
+    "first_seen": "2026-09-07T15:39:08.485013+00:00",
+    "status": "forming"
+  },
+  "LIN|1d|Double Bottom|2026-04-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:08.610721+00:00",
+    "status": "forming"
+  },
+  "LIN|1d|Double Bottom|2026-06-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:08.736241+00:00",
+    "status": "forming"
+  },
+  "LIN|1d|Double Bottom|2026-06-29 00:00:00": {
+    "first_seen": "2026-09-07T15:39:08.861118+00:00",
+    "status": "forming"
+  },
+  "LIN|1d|Head & Shoulders|2026-04-13 00:00:00": {
+    "first_seen": "2026-09-07T15:39:08.987062+00:00",
+    "status": "confirmed"
+  },
+  "LIN|1d|Head & Shoulders|2026-06-25 00:00:00": {
+    "first_seen": "2026-09-07T15:39:09.219275+00:00",
+    "status": "confirmed"
+  },
+  "LIN|1d|Inverse Head & Shoulders|2026-05-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:09.342022+00:00",
+    "status": "forming"
+  },
+  "LIN|1d|Inverse Head & Shoulders|2026-06-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:09.467382+00:00",
+    "status": "forming"
+  },
+  "LIN|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:39:09.592936+00:00",
+    "status": "forming"
+  },
+  "LIN|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:39:09.717214+00:00",
+    "status": "confirmed"
+  },
+  "ESI|1d|Double Top|2025-09-18 00:00:00": {
+    "first_seen": "2026-09-07T15:39:10.669813+00:00",
+    "status": "forming"
+  },
+  "ESI|1d|Double Top|2026-03-25 00:00:00": {
+    "first_seen": "2026-09-07T15:39:10.785064+00:00",
+    "status": "forming"
+  },
+  "ESI|1d|Double Top|2026-07-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:10.908230+00:00",
+    "status": "forming"
+  },
+  "ESI|1d|Double Top|2026-08-04 00:00:00": {
+    "first_seen": "2026-09-07T15:39:11.031866+00:00",
+    "status": "confirmed"
+  },
+  "ESI|1d|Double Bottom|2025-09-26 00:00:00": {
+    "first_seen": "2026-09-07T15:39:11.153343+00:00",
+    "status": "confirmed"
+  },
+  "ESI|1d|Double Bottom|2026-04-15 00:00:00": {
+    "first_seen": "2026-09-07T15:39:11.277130+00:00",
+    "status": "forming"
+  },
+  "ESI|1d|Double Bottom|2026-04-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:11.503253+00:00",
+    "status": "forming"
+  },
+  "ESI|1d|Head & Shoulders|2025-09-18 00:00:00": {
+    "first_seen": "2026-09-07T15:39:11.629955+00:00",
+    "status": "forming"
+  },
+  "ESI|1d|Inverse Head & Shoulders|2025-10-31 00:00:00": {
+    "first_seen": "2026-09-07T15:39:11.749177+00:00",
+    "status": "confirmed"
+  },
+  "ESI|1d|Inverse Head & Shoulders|2026-07-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:11.870350+00:00",
+    "status": "forming"
+  },
+  "ESI|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:12.002201+00:00",
+    "status": "forming"
+  },
+  "APD|1d|Double Top|2025-11-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:12.728152+00:00",
+    "status": "forming"
+  },
+  "APD|1d|Double Top|2026-02-24 00:00:00": {
+    "first_seen": "2026-09-07T15:39:12.857614+00:00",
+    "status": "forming"
+  },
+  "APD|1d|Double Top|2026-03-13 00:00:00": {
+    "first_seen": "2026-09-07T15:39:12.982887+00:00",
+    "status": "forming"
+  },
+  "APD|1d|Double Top|2026-04-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:13.110094+00:00",
+    "status": "forming"
+  },
+  "APD|1d|Double Top|2026-04-27 00:00:00": {
+    "first_seen": "2026-09-07T15:39:13.234994+00:00",
+    "status": "forming"
+  },
+  "APD|1d|Double Bottom|2025-11-18 00:00:00": {
+    "first_seen": "2026-09-07T15:39:13.447889+00:00",
+    "status": "confirmed"
+  },
+  "APD|1d|Double Bottom|2026-02-13 00:00:00": {
+    "first_seen": "2026-09-07T15:39:13.578146+00:00",
+    "status": "confirmed"
+  },
+  "APD|1d|Double Bottom|2026-03-03 00:00:00": {
+    "first_seen": "2026-09-07T15:39:13.700737+00:00",
+    "status": "confirmed"
+  },
+  "APD|1d|Double Bottom|2026-03-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:13.826539+00:00",
+    "status": "confirmed"
+  },
+  "APD|1d|Double Bottom|2026-04-08 00:00:00": {
+    "first_seen": "2026-09-07T15:39:13.959928+00:00",
+    "status": "confirmed"
+  },
+  "APD|1d|Double Bottom|2026-04-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:14.220760+00:00",
+    "status": "forming"
+  },
+  "APD|1d|Double Bottom|2026-06-01 00:00:00": {
+    "first_seen": "2026-09-07T15:39:14.345587+00:00",
+    "status": "confirmed"
+  },
+  "APD|1d|Double Bottom|2026-07-27 00:00:00": {
+    "first_seen": "2026-09-07T15:39:14.472071+00:00",
+    "status": "forming"
+  },
+  "APD|1d|Head & Shoulders|2025-10-27 00:00:00": {
+    "first_seen": "2026-09-07T15:39:14.598076+00:00",
+    "status": "forming"
+  },
+  "APD|1d|Head & Shoulders|2026-04-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:14.722890+00:00",
+    "status": "forming"
+  },
+  "APD|1d|Inverse Head & Shoulders|2025-10-23 00:00:00": {
+    "first_seen": "2026-09-07T15:39:14.944023+00:00",
+    "status": "confirmed"
+  },
+  "APD|1d|Inverse Head & Shoulders|2026-02-13 00:00:00": {
+    "first_seen": "2026-09-07T15:39:15.068577+00:00",
+    "status": "confirmed"
+  },
+  "APD|1d|Inverse Head & Shoulders|2026-07-27 00:00:00": {
+    "first_seen": "2026-09-07T15:39:15.194675+00:00",
+    "status": "forming"
+  },
+  "APD|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:39:15.323021+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Double Top|2025-09-19 00:00:00": {
+    "first_seen": "2026-09-07T15:39:16.053542+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Double Top|2025-10-02 00:00:00": {
+    "first_seen": "2026-09-07T15:39:16.280826+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Double Top|2025-10-28 00:00:00": {
+    "first_seen": "2026-09-07T15:39:16.402625+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Double Top|2025-12-31 00:00:00": {
+    "first_seen": "2026-09-07T15:39:16.525824+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Double Top|2026-04-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:16.643757+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Double Top|2026-05-27 00:00:00": {
+    "first_seen": "2026-09-07T15:39:16.765152+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Double Top|2026-07-06 00:00:00": {
+    "first_seen": "2026-09-07T15:39:16.998004+00:00",
+    "status": "confirmed"
+  },
+  "AI.PA|1d|Double Top|2026-07-27 00:00:00": {
+    "first_seen": "2026-09-07T15:39:17.120271+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Double Bottom|2025-09-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:17.243754+00:00",
+    "status": "confirmed"
+  },
+  "AI.PA|1d|Double Bottom|2025-10-08 00:00:00": {
+    "first_seen": "2026-09-07T15:39:17.372432+00:00",
+    "status": "confirmed"
+  },
+  "AI.PA|1d|Double Bottom|2025-11-24 00:00:00": {
+    "first_seen": "2026-09-07T15:39:17.494670+00:00",
+    "status": "confirmed"
+  },
+  "AI.PA|1d|Double Bottom|2025-12-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:17.638480+00:00",
+    "status": "confirmed"
+  },
+  "AI.PA|1d|Double Bottom|2026-02-18 00:00:00": {
+    "first_seen": "2026-09-07T15:39:17.866962+00:00",
+    "status": "confirmed"
+  },
+  "AI.PA|1d|Double Bottom|2026-05-18 00:00:00": {
+    "first_seen": "2026-09-07T15:39:17.992148+00:00",
+    "status": "confirmed"
+  },
+  "AI.PA|1d|Double Bottom|2026-07-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:18.113863+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Double Bottom|2026-08-03 00:00:00": {
+    "first_seen": "2026-09-07T15:39:18.234758+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Head & Shoulders|2025-09-19 00:00:00": {
+    "first_seen": "2026-09-07T15:39:18.355013+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Inverse Head & Shoulders|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:39:18.578243+00:00",
+    "status": "confirmed"
+  },
+  "AI.PA|1d|Inverse Head & Shoulders|2025-12-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:18.699742+00:00",
+    "status": "confirmed"
+  },
+  "AI.PA|1d|Triunghi descendent|": {
+    "first_seen": "2026-09-07T15:39:18.820847+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Rectangle / Range|": {
+    "first_seen": "2026-09-07T15:39:18.938014+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:39:19.060709+00:00",
+    "status": "forming"
+  },
+  "AI.PA|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:39:19.294460+00:00",
+    "status": "forming"
+  },
+  "CEG|1d|Double Top|2025-10-15 00:00:00": {
+    "first_seen": "2026-09-07T15:39:19.905403+00:00",
+    "status": "confirmed"
+  },
+  "CEG|1d|Double Top|2025-11-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:20.031089+00:00",
+    "status": "confirmed"
+  },
+  "CEG|1d|Double Top|2025-12-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:20.155967+00:00",
+    "status": "confirmed"
+  },
+  "CEG|1d|Double Top|2026-03-30 00:00:00": {
+    "first_seen": "2026-09-07T15:39:20.280512+00:00",
+    "status": "forming"
+  },
+  "CEG|1d|Double Top|2026-07-24 00:00:00": {
+    "first_seen": "2026-09-07T15:39:20.497595+00:00",
+    "status": "forming"
+  },
+  "CEG|1d|Double Bottom|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:20.616395+00:00",
+    "status": "forming"
+  },
+  "CEG|1d|Double Bottom|2026-08-06 00:00:00": {
+    "first_seen": "2026-09-07T15:39:20.741755+00:00",
+    "status": "confirmed"
+  },
+  "CEG|1d|Head & Shoulders|2025-11-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:20.863825+00:00",
+    "status": "confirmed"
+  },
+  "CEG|1d|Head & Shoulders|2025-12-04 00:00:00": {
+    "first_seen": "2026-09-07T15:39:20.995575+00:00",
+    "status": "confirmed"
+  },
+  "CEG|1d|Head & Shoulders|2026-07-24 00:00:00": {
+    "first_seen": "2026-09-07T15:39:21.222868+00:00",
+    "status": "forming"
+  },
+  "CEG|1d|Inverse Head & Shoulders|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:21.343934+00:00",
+    "status": "forming"
+  },
+  "CEG|1d|Inverse Head & Shoulders|2026-03-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:21.473804+00:00",
+    "status": "forming"
+  },
+  "CEG|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:21.599385+00:00",
+    "status": "confirmed"
+  },
+  "FLNC|1d|Double Top|2025-10-16 00:00:00": {
+    "first_seen": "2026-09-07T15:39:22.113669+00:00",
+    "status": "confirmed"
+  },
+  "FLNC|1d|Double Top|2026-07-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:22.330609+00:00",
+    "status": "confirmed"
+  },
+  "FLNC|1d|Double Bottom|2026-04-02 00:00:00": {
+    "first_seen": "2026-09-07T15:39:22.454789+00:00",
+    "status": "forming"
+  },
+  "FLNC|1d|Head & Shoulders|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:39:22.577893+00:00",
+    "status": "confirmed"
+  },
+  "FLNC|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:22.714168+00:00",
+    "status": "confirmed"
+  },
+  "NEE|1d|Double Top|2025-10-16 00:00:00": {
+    "first_seen": "2026-09-07T15:39:23.329673+00:00",
+    "status": "forming"
+  },
+  "NEE|1d|Double Top|2025-10-28 00:00:00": {
+    "first_seen": "2026-09-07T15:39:23.541974+00:00",
+    "status": "forming"
+  },
+  "NEE|1d|Double Top|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:23.669253+00:00",
+    "status": "confirmed"
+  },
+  "NEE|1d|Double Top|2026-04-24 00:00:00": {
+    "first_seen": "2026-09-07T15:39:23.793853+00:00",
+    "status": "confirmed"
+  },
+  "NEE|1d|Double Top|2026-06-29 00:00:00": {
+    "first_seen": "2026-09-07T15:39:23.929242+00:00",
+    "status": "confirmed"
+  },
+  "NEE|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:24.052754+00:00",
+    "status": "forming"
+  },
+  "NEE|1d|Double Bottom|2025-12-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:24.169200+00:00",
+    "status": "confirmed"
+  },
+  "NEE|1d|Double Bottom|2026-02-18 00:00:00": {
+    "first_seen": "2026-09-07T15:39:24.377593+00:00",
+    "status": "forming"
+  },
+  "NEE|1d|Double Bottom|2026-04-29 00:00:00": {
+    "first_seen": "2026-09-07T15:39:24.508306+00:00",
+    "status": "forming"
+  },
+  "NEE|1d|Double Bottom|2026-07-01 00:00:00": {
+    "first_seen": "2026-09-07T15:39:24.633242+00:00",
+    "status": "forming"
+  },
+  "NEE|1d|Double Bottom|2026-07-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:24.753994+00:00",
+    "status": "forming"
+  },
+  "NEE|1d|Double Bottom|2026-08-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:24.877887+00:00",
+    "status": "forming"
+  },
+  "NEE|1d|Head & Shoulders|2025-10-16 00:00:00": {
+    "first_seen": "2026-09-07T15:39:25.096425+00:00",
+    "status": "forming"
+  },
+  "NEE|1d|Head & Shoulders|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:25.224319+00:00",
+    "status": "confirmed"
+  },
+  "NEE|1d|Inverse Head & Shoulders|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:25.350752+00:00",
+    "status": "forming"
+  },
+  "NEE|1d|Inverse Head & Shoulders|2026-03-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:25.471359+00:00",
+    "status": "forming"
+  },
+  "NEE|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:39:25.598882+00:00",
+    "status": "confirmed"
+  },
+  "BE|1d|Double Top|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:26.258441+00:00",
+    "status": "forming"
+  },
+  "BE|1d|Double Top|2026-05-04 00:00:00": {
+    "first_seen": "2026-09-07T15:39:26.386929+00:00",
+    "status": "forming"
+  },
+  "BE|1d|Double Top|2026-08-06 00:00:00": {
+    "first_seen": "2026-09-07T15:39:26.512298+00:00",
+    "status": "forming"
+  },
+  "BE|1d|Double Bottom|2025-11-21 00:00:00": {
+    "first_seen": "2026-09-07T15:39:26.640039+00:00",
+    "status": "confirmed"
+  },
+  "BE|1d|Double Bottom|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:39:26.763058+00:00",
+    "status": "confirmed"
+  },
+  "BE|1d|Double Bottom|2026-02-13 00:00:00": {
+    "first_seen": "2026-09-07T15:39:26.982110+00:00",
+    "status": "confirmed"
+  },
+  "BE|1d|Double Bottom|2026-05-08 00:00:00": {
+    "first_seen": "2026-09-07T15:39:27.107315+00:00",
+    "status": "forming"
+  },
+  "BE|1d|Head & Shoulders|2026-02-11 00:00:00": {
+    "first_seen": "2026-09-07T15:39:27.239498+00:00",
+    "status": "forming"
+  },
+  "BE|1d|Head & Shoulders|2026-05-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:27.364245+00:00",
+    "status": "forming"
+  },
+  "BE|1d|Inverse Head & Shoulders|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:39:27.493356+00:00",
+    "status": "confirmed"
+  },
+  "TLN|1d|Double Top|2025-10-27 00:00:00": {
+    "first_seen": "2026-09-07T15:39:28.127865+00:00",
+    "status": "confirmed"
+  },
+  "TLN|1d|Double Top|2025-11-03 00:00:00": {
+    "first_seen": "2026-09-07T15:39:28.253666+00:00",
+    "status": "confirmed"
+  },
+  "TLN|1d|Double Top|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:28.377560+00:00",
+    "status": "confirmed"
+  },
+  "TLN|1d|Double Top|2026-05-26 00:00:00": {
+    "first_seen": "2026-09-07T15:39:28.743274+00:00",
+    "status": "confirmed"
+  },
+  "TLN|1d|Double Bottom|2025-11-14 00:00:00": {
+    "first_seen": "2026-09-07T15:39:28.867997+00:00",
+    "status": "forming"
+  },
+  "TLN|1d|Double Bottom|2025-11-21 00:00:00": {
+    "first_seen": "2026-09-07T15:39:29.113275+00:00",
+    "status": "forming"
+  },
+  "TLN|1d|Double Bottom|2026-03-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:29.240498+00:00",
+    "status": "forming"
+  },
+  "TLN|1d|Double Bottom|2026-03-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:29.369903+00:00",
+    "status": "forming"
+  },
+  "TLN|1d|Double Bottom|2026-07-01 00:00:00": {
+    "first_seen": "2026-09-07T15:39:29.495474+00:00",
+    "status": "forming"
+  },
+  "TLN|1d|Head & Shoulders|2025-10-27 00:00:00": {
+    "first_seen": "2026-09-07T15:39:29.625316+00:00",
+    "status": "confirmed"
+  },
+  "TLN|1d|Inverse Head & Shoulders|2026-01-08 00:00:00": {
+    "first_seen": "2026-09-07T15:39:29.855212+00:00",
+    "status": "forming"
+  },
+  "TLN|1d|Inverse Head & Shoulders|2026-03-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:29.982939+00:00",
+    "status": "forming"
+  },
+  "TLN|1d|Inverse Head & Shoulders|2026-06-01 00:00:00": {
+    "first_seen": "2026-09-07T15:39:30.114240+00:00",
+    "status": "forming"
+  },
+  "TLN|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:39:30.241503+00:00",
+    "status": "confirmed"
+  },
+  "VST|1d|Double Top|2025-12-04 00:00:00": {
+    "first_seen": "2026-09-07T15:39:30.877900+00:00",
+    "status": "confirmed"
+  },
+  "VST|1d|Double Top|2025-12-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:31.107211+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Double Top|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:31.233088+00:00",
+    "status": "confirmed"
+  },
+  "VST|1d|Double Top|2026-04-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:31.356887+00:00",
+    "status": "confirmed"
+  },
+  "VST|1d|Double Top|2026-05-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:31.487463+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Double Top|2026-05-26 00:00:00": {
+    "first_seen": "2026-09-07T15:39:31.614053+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Double Bottom|2025-09-30 00:00:00": {
+    "first_seen": "2026-09-07T15:39:31.835174+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:31.962373+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Double Bottom|2025-11-14 00:00:00": {
+    "first_seen": "2026-09-07T15:39:32.090370+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Double Bottom|2025-11-21 00:00:00": {
+    "first_seen": "2026-09-07T15:39:32.220207+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Double Bottom|2026-03-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:32.345753+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Double Bottom|2026-04-13 00:00:00": {
+    "first_seen": "2026-09-07T15:39:32.580550+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Double Bottom|2026-08-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:32.704151+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Double Bottom|2026-08-24 00:00:00": {
+    "first_seen": "2026-09-07T15:39:32.835120+00:00",
+    "status": "confirmed"
+  },
+  "VST|1d|Head & Shoulders|2025-10-03 00:00:00": {
+    "first_seen": "2026-09-07T15:39:32.966414+00:00",
+    "status": "confirmed"
+  },
+  "VST|1d|Head & Shoulders|2026-05-26 00:00:00": {
+    "first_seen": "2026-09-07T15:39:33.097205+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Inverse Head & Shoulders|2025-11-21 00:00:00": {
+    "first_seen": "2026-09-07T15:39:33.222259+00:00",
+    "status": "forming"
+  },
+  "VST|1d|Inverse Head & Shoulders|2026-08-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:33.474100+00:00",
+    "status": "confirmed"
+  },
+  "VST|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:33.604505+00:00",
+    "status": "confirmed"
+  },
+  "SMR|1d|Double Top|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:34.127609+00:00",
+    "status": "confirmed"
+  },
+  "SMR|1d|Double Top|2026-08-13 00:00:00": {
+    "first_seen": "2026-09-07T15:39:34.252259+00:00",
+    "status": "forming"
+  },
+  "SMR|1d|Double Bottom|2026-08-19 00:00:00": {
+    "first_seen": "2026-09-07T15:39:34.372635+00:00",
+    "status": "forming"
+  },
+  "SMR|1d|Triunghi descendent|": {
+    "first_seen": "2026-09-07T15:39:34.576482+00:00",
+    "status": "confirmed"
+  },
+  "SMR|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:34.709133+00:00",
+    "status": "confirmed"
+  },
+  "QUBT|1d|Double Top|2025-12-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:35.233130+00:00",
+    "status": "confirmed"
+  },
+  "QUBT|1d|Double Bottom|2025-11-14 00:00:00": {
+    "first_seen": "2026-09-07T15:39:35.358770+00:00",
+    "status": "forming"
+  },
+  "QUBT|1d|Double Bottom|2025-12-18 00:00:00": {
+    "first_seen": "2026-09-07T15:39:35.481199+00:00",
+    "status": "forming"
+  },
+  "QUBT|1d|Double Bottom|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:39:35.732207+00:00",
+    "status": "forming"
+  },
+  "QUBT|1d|Double Bottom|2026-05-19 00:00:00": {
+    "first_seen": "2026-09-07T15:39:35.858880+00:00",
+    "status": "forming"
+  },
+  "QUBT|1d|Double Bottom|2026-06-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:35.992723+00:00",
+    "status": "forming"
+  },
+  "QUBT|1d|Double Bottom|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:36.128233+00:00",
+    "status": "forming"
+  },
+  "QUBT|1d|Head & Shoulders|2025-09-26 00:00:00": {
+    "first_seen": "2026-09-07T15:39:36.264218+00:00",
+    "status": "confirmed"
+  },
+  "QUBT|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:36.495866+00:00",
+    "status": "forming"
+  },
+  "QUBT|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:39:36.613421+00:00",
+    "status": "forming"
+  },
+  "SONY|1d|Double Top|2025-09-26 00:00:00": {
+    "first_seen": "2026-09-07T15:39:37.204408+00:00",
+    "status": "confirmed"
+  },
+  "SONY|1d|Double Top|2025-10-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:37.322563+00:00",
+    "status": "confirmed"
+  },
+  "SONY|1d|Double Top|2026-02-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:37.441459+00:00",
+    "status": "forming"
+  },
+  "SONY|1d|Double Top|2026-03-23 00:00:00": {
+    "first_seen": "2026-09-07T15:39:37.643063+00:00",
+    "status": "forming"
+  },
+  "SONY|1d|Double Top|2026-04-08 00:00:00": {
+    "first_seen": "2026-09-07T15:39:37.762915+00:00",
+    "status": "forming"
+  },
+  "SONY|1d|Double Top|2026-07-31 00:00:00": {
+    "first_seen": "2026-09-07T15:39:37.877868+00:00",
+    "status": "forming"
+  },
+  "SONY|1d|Double Bottom|2025-09-16 00:00:00": {
+    "first_seen": "2026-09-07T15:39:37.995540+00:00",
+    "status": "forming"
+  },
+  "SONY|1d|Double Bottom|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:38.113438+00:00",
+    "status": "forming"
+  },
+  "SONY|1d|Double Bottom|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:39:38.318600+00:00",
+    "status": "confirmed"
+  },
+  "SONY|1d|Double Bottom|2026-03-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:38.439189+00:00",
+    "status": "confirmed"
+  },
+  "SONY|1d|Double Bottom|2026-07-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:38.557029+00:00",
+    "status": "confirmed"
+  },
+  "SONY|1d|Head & Shoulders|2025-09-26 00:00:00": {
+    "first_seen": "2026-09-07T15:39:38.675502+00:00",
+    "status": "confirmed"
+  },
+  "SONY|1d|Inverse Head & Shoulders|2025-09-16 00:00:00": {
+    "first_seen": "2026-09-07T15:39:38.795044+00:00",
+    "status": "forming"
+  },
+  "SONY|1d|Inverse Head & Shoulders|2026-03-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:39.003268+00:00",
+    "status": "confirmed"
+  },
+  "SONY|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:39:39.124346+00:00",
+    "status": "confirmed"
+  },
+  "SONY|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:39.242709+00:00",
+    "status": "forming"
+  },
+  "SONY|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:39:39.360013+00:00",
+    "status": "forming"
+  },
+  "CLS|1d|Double Top|2025-09-23 00:00:00": {
+    "first_seen": "2026-09-07T15:39:39.923348+00:00",
+    "status": "forming"
+  },
+  "CLS|1d|Double Top|2025-11-28 00:00:00": {
+    "first_seen": "2026-09-07T15:39:40.127171+00:00",
+    "status": "forming"
+  },
+  "CLS|1d|Double Top|2026-04-27 00:00:00": {
+    "first_seen": "2026-09-07T15:39:40.253915+00:00",
+    "status": "confirmed"
+  },
+  "CLS|1d|Double Top|2026-07-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:40.378979+00:00",
+    "status": "forming"
+  },
+  "CLS|1d|Double Bottom|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:39:40.505186+00:00",
+    "status": "confirmed"
+  },
+  "CLS|1d|Double Bottom|2026-01-06 00:00:00": {
+    "first_seen": "2026-09-07T15:39:40.622837+00:00",
+    "status": "forming"
+  },
+  "CLS|1d|Double Bottom|2026-01-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:40.845465+00:00",
+    "status": "forming"
+  },
+  "CLS|1d|Double Bottom|2026-02-04 00:00:00": {
+    "first_seen": "2026-09-07T15:39:40.962688+00:00",
+    "status": "forming"
+  },
+  "CLS|1d|Double Bottom|2026-05-28 00:00:00": {
+    "first_seen": "2026-09-07T15:39:41.080256+00:00",
+    "status": "forming"
+  },
+  "CLS|1d|Head & Shoulders|2026-01-13 00:00:00": {
+    "first_seen": "2026-09-07T15:39:41.206270+00:00",
+    "status": "forming"
+  },
+  "CLS|1d|Inverse Head & Shoulders|2025-09-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:41.325599+00:00",
+    "status": "confirmed"
+  },
+  "CLS|1d|Inverse Head & Shoulders|2025-12-03 00:00:00": {
+    "first_seen": "2026-09-07T15:39:41.445985+00:00",
+    "status": "forming"
+  },
+  "CLS|1d|Inverse Head & Shoulders|2026-01-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:41.667999+00:00",
+    "status": "forming"
+  },
+  "CLS|1d|Inverse Head & Shoulders|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:41.785682+00:00",
+    "status": "confirmed"
+  },
+  "ISRG|1d|Double Top|2025-09-24 00:00:00": {
+    "first_seen": "2026-09-07T15:39:42.294303+00:00",
+    "status": "confirmed"
+  },
+  "ISRG|1d|Double Top|2025-11-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:42.414163+00:00",
+    "status": "confirmed"
+  },
+  "ISRG|1d|Double Top|2025-11-26 00:00:00": {
+    "first_seen": "2026-09-07T15:39:42.532033+00:00",
+    "status": "confirmed"
+  },
+  "ISRG|1d|Double Top|2026-02-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:42.750933+00:00",
+    "status": "confirmed"
+  },
+  "ISRG|1d|Double Top|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:39:42.875569+00:00",
+    "status": "confirmed"
+  },
+  "ISRG|1d|Double Top|2026-05-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:42.999436+00:00",
+    "status": "confirmed"
+  },
+  "ISRG|1d|Double Bottom|2025-09-16 00:00:00": {
+    "first_seen": "2026-09-07T15:39:43.122654+00:00",
+    "status": "forming"
+  },
+  "ISRG|1d|Double Bottom|2025-10-01 00:00:00": {
+    "first_seen": "2026-09-07T15:39:43.250561+00:00",
+    "status": "forming"
+  },
+  "ISRG|1d|Double Bottom|2025-10-31 00:00:00": {
+    "first_seen": "2026-09-07T15:39:43.478689+00:00",
+    "status": "forming"
+  },
+  "ISRG|1d|Double Bottom|2026-02-04 00:00:00": {
+    "first_seen": "2026-09-07T15:39:43.597326+00:00",
+    "status": "forming"
+  },
+  "ISRG|1d|Double Bottom|2026-02-23 00:00:00": {
+    "first_seen": "2026-09-07T15:39:43.721602+00:00",
+    "status": "forming"
+  },
+  "ISRG|1d|Double Bottom|2026-04-21 00:00:00": {
+    "first_seen": "2026-09-07T15:39:43.847620+00:00",
+    "status": "forming"
+  },
+  "ISRG|1d|Double Bottom|2026-06-02 00:00:00": {
+    "first_seen": "2026-09-07T15:39:43.971693+00:00",
+    "status": "forming"
+  },
+  "ISRG|1d|Head & Shoulders|2025-11-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:44.175417+00:00",
+    "status": "confirmed"
+  },
+  "ISRG|1d|Head & Shoulders|2026-04-08 00:00:00": {
+    "first_seen": "2026-09-07T15:39:44.293954+00:00",
+    "status": "confirmed"
+  },
+  "ISRG|1d|Inverse Head & Shoulders|2025-12-02 00:00:00": {
+    "first_seen": "2026-09-07T15:39:44.423958+00:00",
+    "status": "forming"
+  },
+  "ISRG|1d|Inverse Head & Shoulders|2026-03-31 00:00:00": {
+    "first_seen": "2026-09-07T15:39:44.548650+00:00",
+    "status": "forming"
+  },
+  "ISRG|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:44.676811+00:00",
+    "status": "confirmed"
+  },
+  "ISRG|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:39:44.904827+00:00",
+    "status": "confirmed"
+  },
+  "AMBA|1d|Double Top|2025-09-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:45.519332+00:00",
+    "status": "confirmed"
+  },
+  "AMBA|1d|Double Top|2025-09-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:45.670232+00:00",
+    "status": "confirmed"
+  },
+  "AMBA|1d|Double Top|2025-10-03 00:00:00": {
+    "first_seen": "2026-09-07T15:39:45.799085+00:00",
+    "status": "confirmed"
+  },
+  "AMBA|1d|Double Top|2026-01-28 00:00:00": {
+    "first_seen": "2026-09-07T15:39:45.929297+00:00",
+    "status": "forming"
+  },
+  "AMBA|1d|Double Bottom|2025-12-03 00:00:00": {
+    "first_seen": "2026-09-07T15:39:46.155524+00:00",
+    "status": "forming"
+  },
+  "AMBA|1d|Double Bottom|2025-12-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:46.283414+00:00",
+    "status": "forming"
+  },
+  "AMBA|1d|Double Bottom|2026-06-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:46.412472+00:00",
+    "status": "forming"
+  },
+  "AMBA|1d|Head & Shoulders|2025-09-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:46.541926+00:00",
+    "status": "confirmed"
+  },
+  "AMBA|1d|Head & Shoulders|2025-10-03 00:00:00": {
+    "first_seen": "2026-09-07T15:39:46.671810+00:00",
+    "status": "confirmed"
+  },
+  "AMBA|1d|Head & Shoulders|2026-06-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:46.889035+00:00",
+    "status": "forming"
+  },
+  "AMBA|1d|Inverse Head & Shoulders|2025-10-01 00:00:00": {
+    "first_seen": "2026-09-07T15:39:47.016167+00:00",
+    "status": "forming"
+  },
+  "AMBA|1d|Rounding Top|": {
+    "first_seen": "2026-09-07T15:39:47.144525+00:00",
+    "status": "confirmed"
+  },
+  "SYM|1d|Double Bottom|2025-12-05 00:00:00": {
+    "first_seen": "2026-09-07T15:39:47.673964+00:00",
+    "status": "forming"
+  },
+  "SYM|1d|Double Bottom|2026-05-19 00:00:00": {
+    "first_seen": "2026-09-07T15:39:47.795459+00:00",
+    "status": "forming"
+  },
+  "SYM|1d|Double Bottom|2026-07-08 00:00:00": {
+    "first_seen": "2026-09-07T15:39:48.015338+00:00",
+    "status": "forming"
+  },
+  "SYM|1d|Double Bottom|2026-07-24 00:00:00": {
+    "first_seen": "2026-09-07T15:39:48.128162+00:00",
+    "status": "forming"
+  },
+  "SYM|1d|Double Bottom|2026-08-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:48.251220+00:00",
+    "status": "forming"
+  },
+  "SYM|1d|Head & Shoulders|2025-12-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:48.382144+00:00",
+    "status": "confirmed"
+  },
+  "SYM|1d|Head & Shoulders|2026-03-25 00:00:00": {
+    "first_seen": "2026-09-07T15:39:48.509352+00:00",
+    "status": "confirmed"
+  },
+  "SYM|1d|Head & Shoulders|2026-06-15 00:00:00": {
+    "first_seen": "2026-09-07T15:39:48.724196+00:00",
+    "status": "forming"
+  },
+  "SYM|1d|Inverse Head & Shoulders|2026-06-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:48.845454+00:00",
+    "status": "forming"
+  },
+  "SYM|1d|Triunghi descendent|": {
+    "first_seen": "2026-09-07T15:39:48.964406+00:00",
+    "status": "forming"
+  },
+  "SYM|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:49.087045+00:00",
+    "status": "forming"
+  },
+  "IFX.DE|1d|Double Top|2025-09-23 00:00:00": {
+    "first_seen": "2026-09-07T15:39:49.703976+00:00",
+    "status": "forming"
+  },
+  "IFX.DE|1d|Double Top|2025-10-02 00:00:00": {
+    "first_seen": "2026-09-07T15:39:49.827936+00:00",
+    "status": "forming"
+  },
+  "IFX.DE|1d|Double Top|2026-01-14 00:00:00": {
+    "first_seen": "2026-09-07T15:39:50.056591+00:00",
+    "status": "forming"
+  },
+  "IFX.DE|1d|Double Top|2026-06-02 00:00:00": {
+    "first_seen": "2026-09-07T15:39:50.183701+00:00",
+    "status": "confirmed"
+  },
+  "IFX.DE|1d|Double Bottom|2025-09-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:50.311101+00:00",
+    "status": "confirmed"
+  },
+  "IFX.DE|1d|Double Bottom|2025-09-26 00:00:00": {
+    "first_seen": "2026-09-07T15:39:50.438298+00:00",
+    "status": "confirmed"
+  },
+  "IFX.DE|1d|Double Bottom|2026-01-20 00:00:00": {
+    "first_seen": "2026-09-07T15:39:50.564707+00:00",
+    "status": "confirmed"
+  },
+  "IFX.DE|1d|Double Bottom|2026-03-23 00:00:00": {
+    "first_seen": "2026-09-07T15:39:50.776941+00:00",
+    "status": "confirmed"
+  },
+  "IFX.DE|1d|Inverse Head & Shoulders|2025-09-26 00:00:00": {
+    "first_seen": "2026-09-07T15:39:50.903997+00:00",
+    "status": "confirmed"
+  },
+  "IFX.DE|1d|Inverse Head & Shoulders|2026-03-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:51.031369+00:00",
+    "status": "confirmed"
+  },
+  "IFX.DE|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:51.156867+00:00",
+    "status": "confirmed"
+  },
+  "AXON|1d|Double Top|2025-09-15 00:00:00": {
+    "first_seen": "2026-09-07T15:39:51.685291+00:00",
+    "status": "confirmed"
+  },
+  "AXON|1d|Double Top|2025-10-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:51.883748+00:00",
+    "status": "confirmed"
+  },
+  "AXON|1d|Double Top|2026-04-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:52.010856+00:00",
+    "status": "forming"
+  },
+  "AXON|1d|Double Bottom|2025-12-09 00:00:00": {
+    "first_seen": "2026-09-07T15:39:52.154123+00:00",
+    "status": "forming"
+  },
+  "AXON|1d|Double Bottom|2025-12-16 00:00:00": {
+    "first_seen": "2026-09-07T15:39:52.272582+00:00",
+    "status": "forming"
+  },
+  "AXON|1d|Double Bottom|2026-04-29 00:00:00": {
+    "first_seen": "2026-09-07T15:39:52.395243+00:00",
+    "status": "confirmed"
+  },
+  "AXON|1d|Double Bottom|2026-05-06 00:00:00": {
+    "first_seen": "2026-09-07T15:39:52.604295+00:00",
+    "status": "confirmed"
+  },
+  "AXON|1d|Head & Shoulders|2025-09-15 00:00:00": {
+    "first_seen": "2026-09-07T15:39:52.724605+00:00",
+    "status": "confirmed"
+  },
+  "AXON|1d|Head & Shoulders|2026-05-01 00:00:00": {
+    "first_seen": "2026-09-07T15:39:52.852918+00:00",
+    "status": "forming"
+  },
+  "AXON|1d|Inverse Head & Shoulders|2026-05-06 00:00:00": {
+    "first_seen": "2026-09-07T15:39:52.981620+00:00",
+    "status": "confirmed"
+  },
+  "AXON|1d|Triunghi simetric|": {
+    "first_seen": "2026-09-07T15:39:53.118707+00:00",
+    "status": "confirmed"
+  },
+  "AXON|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:39:53.359800+00:00",
+    "status": "confirmed"
+  },
+  "PLTR|1d|Double Top|2025-09-23 00:00:00": {
+    "first_seen": "2026-09-07T15:39:53.875790+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Double Top|2025-10-02 00:00:00": {
+    "first_seen": "2026-09-07T15:39:53.998186+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Double Top|2026-03-06 00:00:00": {
+    "first_seen": "2026-09-07T15:39:54.120371+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Double Top|2026-04-08 00:00:00": {
+    "first_seen": "2026-09-07T15:39:54.245394+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Double Top|2026-04-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:54.471662+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Double Top|2026-06-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:54.594510+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Double Bottom|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:39:54.716213+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Double Bottom|2025-10-14 00:00:00": {
+    "first_seen": "2026-09-07T15:39:54.837509+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:39:54.961306+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Double Bottom|2026-02-13 00:00:00": {
+    "first_seen": "2026-09-07T15:39:55.085196+00:00",
+    "status": "confirmed"
+  },
+  "PLTR|1d|Double Bottom|2026-03-13 00:00:00": {
+    "first_seen": "2026-09-07T15:39:55.306475+00:00",
+    "status": "confirmed"
+  },
+  "PLTR|1d|Double Bottom|2026-04-29 00:00:00": {
+    "first_seen": "2026-09-07T15:39:55.432652+00:00",
+    "status": "confirmed"
+  },
+  "PLTR|1d|Head & Shoulders|2025-09-23 00:00:00": {
+    "first_seen": "2026-09-07T15:39:55.553961+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Head & Shoulders|2026-03-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:55.673224+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Head & Shoulders|2026-06-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:55.796194+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Inverse Head & Shoulders|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:39:56.012574+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Inverse Head & Shoulders|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:56.138284+00:00",
+    "status": "forming"
+  },
+  "PLTR|1d|Inverse Head & Shoulders|2026-03-30 00:00:00": {
+    "first_seen": "2026-09-07T15:39:56.264430+00:00",
+    "status": "confirmed"
+  },
+  "PLTR|1d|Inverse Head & Shoulders|2026-06-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:56.389375+00:00",
+    "status": "confirmed"
+  },
+  "PLTR|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:39:56.514434+00:00",
+    "status": "confirmed"
+  },
+  "PLTR|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:39:56.725023+00:00",
+    "status": "confirmed"
+  },
+  "RDDT|1d|Double Top|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:57.339379+00:00",
+    "status": "confirmed"
+  },
+  "RDDT|1d|Double Top|2025-12-10 00:00:00": {
+    "first_seen": "2026-09-07T15:39:57.469480+00:00",
+    "status": "confirmed"
+  },
+  "RDDT|1d|Double Top|2026-02-26 00:00:00": {
+    "first_seen": "2026-09-07T15:39:57.594570+00:00",
+    "status": "forming"
+  },
+  "RDDT|1d|Double Top|2026-06-04 00:00:00": {
+    "first_seen": "2026-09-07T15:39:57.724936+00:00",
+    "status": "confirmed"
+  },
+  "RDDT|1d|Double Bottom|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:57.953355+00:00",
+    "status": "forming"
+  },
+  "RDDT|1d|Double Bottom|2026-06-03 00:00:00": {
+    "first_seen": "2026-09-07T15:39:58.083882+00:00",
+    "status": "forming"
+  },
+  "RDDT|1d|Head & Shoulders|2026-08-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:58.214634+00:00",
+    "status": "forming"
+  },
+  "RDDT|1d|Inverse Head & Shoulders|2026-03-13 00:00:00": {
+    "first_seen": "2026-09-07T15:39:58.344409+00:00",
+    "status": "confirmed"
+  },
+  "RDDT|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:39:58.470458+00:00",
+    "status": "forming"
+  },
+  "META|1d|Double Top|2026-04-17 00:00:00": {
+    "first_seen": "2026-09-07T15:39:59.090173+00:00",
+    "status": "confirmed"
+  },
+  "META|1d|Double Top|2026-05-07 00:00:00": {
+    "first_seen": "2026-09-07T15:39:59.219969+00:00",
+    "status": "forming"
+  },
+  "META|1d|Double Bottom|2025-10-06 00:00:00": {
+    "first_seen": "2026-09-07T15:39:59.349753+00:00",
+    "status": "forming"
+  },
+  "META|1d|Double Bottom|2025-12-12 00:00:00": {
+    "first_seen": "2026-09-07T15:39:59.472895+00:00",
+    "status": "forming"
+  },
+  "META|1d|Double Bottom|2026-04-30 00:00:00": {
+    "first_seen": "2026-09-07T15:39:59.604194+00:00",
+    "status": "forming"
+  },
+  "META|1d|Double Bottom|2026-06-11 00:00:00": {
+    "first_seen": "2026-09-07T15:39:59.833905+00:00",
+    "status": "confirmed"
+  },
+  "META|1d|Head & Shoulders|2026-01-06 00:00:00": {
+    "first_seen": "2026-09-07T15:39:59.963532+00:00",
+    "status": "forming"
+  },
+  "META|1d|Head & Shoulders|2026-07-01 00:00:00": {
+    "first_seen": "2026-09-07T15:40:00.087397+00:00",
+    "status": "forming"
+  },
+  "META|1d|Inverse Head & Shoulders|2026-01-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:00.216870+00:00",
+    "status": "forming"
+  },
+  "META|1d|Inverse Head & Shoulders|2026-04-30 00:00:00": {
+    "first_seen": "2026-09-07T15:40:00.343177+00:00",
+    "status": "forming"
+  },
+  "META|1d|Triunghi descendent|": {
+    "first_seen": "2026-09-07T15:40:00.470281+00:00",
+    "status": "confirmed"
+  },
+  "META|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:40:00.700775+00:00",
+    "status": "confirmed"
+  },
+  "META|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:00.829084+00:00",
+    "status": "confirmed"
+  },
+  "GOOGL|1d|Double Top|2025-09-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:01.363699+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Double Top|2025-11-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:01.494127+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Double Top|2026-01-13 00:00:00": {
+    "first_seen": "2026-09-07T15:40:01.621670+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Double Top|2026-02-23 00:00:00": {
+    "first_seen": "2026-09-07T15:40:01.842870+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Double Top|2026-03-11 00:00:00": {
+    "first_seen": "2026-09-07T15:40:01.962011+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Double Top|2026-06-16 00:00:00": {
+    "first_seen": "2026-09-07T15:40:02.084194+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Double Top|2026-07-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:02.205573+00:00",
+    "status": "confirmed"
+  },
+  "GOOGL|1d|Double Bottom|2025-10-01 00:00:00": {
+    "first_seen": "2026-09-07T15:40:02.325599+00:00",
+    "status": "confirmed"
+  },
+  "GOOGL|1d|Double Bottom|2026-01-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:02.562793+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Double Bottom|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:02.689878+00:00",
+    "status": "confirmed"
+  },
+  "GOOGL|1d|Double Bottom|2026-05-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:02.818200+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Double Bottom|2026-07-09 00:00:00": {
+    "first_seen": "2026-09-07T15:40:02.944683+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Inverse Head & Shoulders|2025-10-01 00:00:00": {
+    "first_seen": "2026-09-07T15:40:03.069179+00:00",
+    "status": "confirmed"
+  },
+  "GOOGL|1d|Inverse Head & Shoulders|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:03.295056+00:00",
+    "status": "confirmed"
+  },
+  "GOOGL|1d|Inverse Head & Shoulders|2026-06-11 00:00:00": {
+    "first_seen": "2026-09-07T15:40:03.424078+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Triunghi descendent|": {
+    "first_seen": "2026-09-07T15:40:03.551290+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:03.675978+00:00",
+    "status": "forming"
+  },
+  "GOOGL|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:40:03.804706+00:00",
+    "status": "forming"
+  },
+  "DOCN|1d|Double Top|2025-11-10 00:00:00": {
+    "first_seen": "2026-09-07T15:40:04.430703+00:00",
+    "status": "forming"
+  },
+  "DOCN|1d|Double Top|2026-05-08 00:00:00": {
+    "first_seen": "2026-09-07T15:40:04.552849+00:00",
+    "status": "confirmed"
+  },
+  "DOCN|1d|Double Top|2026-06-04 00:00:00": {
+    "first_seen": "2026-09-07T15:40:04.670905+00:00",
+    "status": "confirmed"
+  },
+  "DOCN|1d|Double Top|2026-07-09 00:00:00": {
+    "first_seen": "2026-09-07T15:40:04.792231+00:00",
+    "status": "forming"
+  },
+  "DOCN|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:04.914694+00:00",
+    "status": "confirmed"
+  },
+  "DOCN|1d|Double Bottom|2025-12-01 00:00:00": {
+    "first_seen": "2026-09-07T15:40:05.136501+00:00",
+    "status": "confirmed"
+  },
+  "DOCN|1d|Double Bottom|2026-07-29 00:00:00": {
+    "first_seen": "2026-09-07T15:40:05.265600+00:00",
+    "status": "forming"
+  },
+  "DOCN|1d|Head & Shoulders|2025-10-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:05.388662+00:00",
+    "status": "forming"
+  },
+  "DOCN|1d|Inverse Head & Shoulders|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:05.516959+00:00",
+    "status": "forming"
+  },
+  "SNOW|1d|Double Top|2025-09-10 00:00:00": {
+    "first_seen": "2026-09-07T15:40:06.027982+00:00",
+    "status": "forming"
+  },
+  "SNOW|1d|Double Top|2025-11-03 00:00:00": {
+    "first_seen": "2026-09-07T15:40:06.234650+00:00",
+    "status": "forming"
+  },
+  "SNOW|1d|Double Top|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:40:06.352398+00:00",
+    "status": "forming"
+  },
+  "SNOW|1d|Double Top|2026-02-26 00:00:00": {
+    "first_seen": "2026-09-07T15:40:06.472606+00:00",
+    "status": "forming"
+  },
+  "SNOW|1d|Double Top|2026-04-08 00:00:00": {
+    "first_seen": "2026-09-07T15:40:06.593296+00:00",
+    "status": "forming"
+  },
+  "SNOW|1d|Double Top|2026-04-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:06.713413+00:00",
+    "status": "forming"
+  },
+  "SNOW|1d|Double Top|2026-08-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:06.835053+00:00",
+    "status": "forming"
+  },
+  "SNOW|1d|Double Bottom|2025-09-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:07.049772+00:00",
+    "status": "confirmed"
+  },
+  "SNOW|1d|Double Bottom|2025-10-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:07.168113+00:00",
+    "status": "confirmed"
+  },
+  "SNOW|1d|Double Bottom|2025-10-30 00:00:00": {
+    "first_seen": "2026-09-07T15:40:07.286815+00:00",
+    "status": "confirmed"
+  },
+  "SNOW|1d|Double Bottom|2025-12-15 00:00:00": {
+    "first_seen": "2026-09-07T15:40:07.406444+00:00",
+    "status": "confirmed"
+  },
+  "SNOW|1d|Double Bottom|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:07.530626+00:00",
+    "status": "confirmed"
+  },
+  "SNOW|1d|Double Bottom|2026-02-24 00:00:00": {
+    "first_seen": "2026-09-07T15:40:07.751246+00:00",
+    "status": "confirmed"
+  },
+  "SNOW|1d|Head & Shoulders|2025-12-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:07.870938+00:00",
+    "status": "forming"
+  },
+  "SNOW|1d|Inverse Head & Shoulders|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:07.993735+00:00",
+    "status": "confirmed"
+  },
+  "SNOW|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:40:08.119641+00:00",
+    "status": "confirmed"
+  },
+  "SNOW|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:08.240272+00:00",
+    "status": "forming"
+  },
+  "PATH|1d|Double Top|2025-10-16 00:00:00": {
+    "first_seen": "2026-09-07T15:40:08.851515+00:00",
+    "status": "forming"
+  },
+  "PATH|1d|Double Top|2026-03-11 00:00:00": {
+    "first_seen": "2026-09-07T15:40:08.974877+00:00",
+    "status": "forming"
+  },
+  "PATH|1d|Double Top|2026-04-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:09.099622+00:00",
+    "status": "forming"
+  },
+  "PATH|1d|Double Top|2026-04-21 00:00:00": {
+    "first_seen": "2026-09-07T15:40:09.224515+00:00",
+    "status": "forming"
+  },
+  "PATH|1d|Double Top|2026-04-28 00:00:00": {
+    "first_seen": "2026-09-07T15:40:09.350210+00:00",
+    "status": "forming"
+  },
+  "PATH|1d|Double Top|2026-07-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:09.568300+00:00",
+    "status": "forming"
+  },
+  "PATH|1d|Double Bottom|2025-12-23 00:00:00": {
+    "first_seen": "2026-09-07T15:40:09.691460+00:00",
+    "status": "forming"
+  },
+  "PATH|1d|Double Bottom|2026-03-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:09.815661+00:00",
+    "status": "confirmed"
+  },
+  "PATH|1d|Head & Shoulders|2026-05-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:09.941397+00:00",
+    "status": "forming"
+  },
+  "PATH|1d|Inverse Head & Shoulders|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:10.063901+00:00",
+    "status": "confirmed"
+  },
+  "PATH|1d|Inverse Head & Shoulders|2026-05-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:10.280181+00:00",
+    "status": "confirmed"
+  },
+  "PATH|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:40:10.404988+00:00",
+    "status": "forming"
+  },
+  "PATH|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:10.530423+00:00",
+    "status": "confirmed"
+  },
+  "RBRK|1d|Double Top|2025-11-03 00:00:00": {
+    "first_seen": "2026-09-07T15:40:11.123233+00:00",
+    "status": "forming"
+  },
+  "RBRK|1d|Double Top|2026-04-08 00:00:00": {
+    "first_seen": "2026-09-07T15:40:11.242908+00:00",
+    "status": "forming"
+  },
+  "RBRK|1d|Double Top|2026-08-14 00:00:00": {
+    "first_seen": "2026-09-07T15:40:11.472779+00:00",
+    "status": "forming"
+  },
+  "RBRK|1d|Double Bottom|2025-10-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:11.594171+00:00",
+    "status": "confirmed"
+  },
+  "RBRK|1d|Double Bottom|2025-10-30 00:00:00": {
+    "first_seen": "2026-09-07T15:40:11.718748+00:00",
+    "status": "confirmed"
+  },
+  "RBRK|1d|Double Bottom|2026-05-27 00:00:00": {
+    "first_seen": "2026-09-07T15:40:11.840065+00:00",
+    "status": "confirmed"
+  },
+  "RBRK|1d|Double Bottom|2026-06-18 00:00:00": {
+    "first_seen": "2026-09-07T15:40:11.962987+00:00",
+    "status": "confirmed"
+  },
+  "RBRK|1d|Inverse Head & Shoulders|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:12.083026+00:00",
+    "status": "confirmed"
+  },
+  "ORCL|1d|Double Top|2025-09-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:12.772479+00:00",
+    "status": "confirmed"
+  },
+  "ORCL|1d|Double Top|2026-05-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:12.898635+00:00",
+    "status": "confirmed"
+  },
+  "ORCL|1d|Double Bottom|2025-10-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:13.028376+00:00",
+    "status": "forming"
+  },
+  "ORCL|1d|Double Bottom|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:13.153685+00:00",
+    "status": "forming"
+  },
+  "ORCL|1d|Double Bottom|2026-03-30 00:00:00": {
+    "first_seen": "2026-09-07T15:40:13.282549+00:00",
+    "status": "confirmed"
+  },
+  "ORCL|1d|Double Bottom|2026-05-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:13.501153+00:00",
+    "status": "forming"
+  },
+  "ORCL|1d|Double Bottom|2026-05-20 00:00:00": {
+    "first_seen": "2026-09-07T15:40:13.629897+00:00",
+    "status": "forming"
+  },
+  "ORCL|1d|Inverse Head & Shoulders|2025-11-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:13.756199+00:00",
+    "status": "forming"
+  },
+  "ORCL|1d|Inverse Head & Shoulders|2026-07-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:13.882747+00:00",
+    "status": "confirmed"
+  },
+  "ORCL|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:14.005743+00:00",
+    "status": "confirmed"
+  },
+  "MSFT|1d|Double Top|2025-09-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:14.637716+00:00",
+    "status": "confirmed"
+  },
+  "MSFT|1d|Double Top|2025-12-08 00:00:00": {
+    "first_seen": "2026-09-07T15:40:14.910756+00:00",
+    "status": "forming"
+  },
+  "MSFT|1d|Double Top|2026-01-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:15.034178+00:00",
+    "status": "forming"
+  },
+  "MSFT|1d|Double Top|2026-04-28 00:00:00": {
+    "first_seen": "2026-09-07T15:40:15.160544+00:00",
+    "status": "forming"
+  },
+  "MSFT|1d|Double Top|2026-07-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:15.287042+00:00",
+    "status": "forming"
+  },
+  "MSFT|1d|Double Top|2026-08-10 00:00:00": {
+    "first_seen": "2026-09-07T15:40:15.509274+00:00",
+    "status": "forming"
+  },
+  "MSFT|1d|Double Bottom|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:15.631330+00:00",
+    "status": "forming"
+  },
+  "MSFT|1d|Double Bottom|2025-10-14 00:00:00": {
+    "first_seen": "2026-09-07T15:40:15.752247+00:00",
+    "status": "forming"
+  },
+  "MSFT|1d|Double Bottom|2025-11-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:15.874695+00:00",
+    "status": "confirmed"
+  },
+  "MSFT|1d|Double Bottom|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:15.998267+00:00",
+    "status": "confirmed"
+  },
+  "MSFT|1d|Double Bottom|2026-07-09 00:00:00": {
+    "first_seen": "2026-09-07T15:40:16.212724+00:00",
+    "status": "confirmed"
+  },
+  "MSFT|1d|Head & Shoulders|2025-10-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:16.338532+00:00",
+    "status": "forming"
+  },
+  "MSFT|1d|Head & Shoulders|2025-12-30 00:00:00": {
+    "first_seen": "2026-09-07T15:40:16.461056+00:00",
+    "status": "forming"
+  },
+  "MSFT|1d|Inverse Head & Shoulders|2026-05-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:16.585997+00:00",
+    "status": "confirmed"
+  },
+  "MSFT|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:40:16.714064+00:00",
+    "status": "confirmed"
+  },
+  "MSFT|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:40:16.920315+00:00",
+    "status": "forming"
+  },
+  "CRWD|1d|Double Top|2025-09-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:17.534300+00:00",
+    "status": "forming"
+  },
+  "CRWD|1d|Double Top|2025-11-03 00:00:00": {
+    "first_seen": "2026-09-07T15:40:17.655657+00:00",
+    "status": "forming"
+  },
+  "CRWD|1d|Double Top|2026-01-14 00:00:00": {
+    "first_seen": "2026-09-07T15:40:17.782799+00:00",
+    "status": "forming"
+  },
+  "CRWD|1d|Double Top|2026-03-11 00:00:00": {
+    "first_seen": "2026-09-07T15:40:17.906399+00:00",
+    "status": "forming"
+  },
+  "CRWD|1d|Double Top|2026-06-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:18.122599+00:00",
+    "status": "forming"
+  },
+  "CRWD|1d|Double Top|2026-08-14 00:00:00": {
+    "first_seen": "2026-09-07T15:40:18.244651+00:00",
+    "status": "forming"
+  },
+  "CRWD|1d|Double Bottom|2025-10-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:18.372622+00:00",
+    "status": "confirmed"
+  },
+  "CRWD|1d|Double Bottom|2025-11-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:18.505658+00:00",
+    "status": "confirmed"
+  },
+  "CRWD|1d|Double Bottom|2026-01-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:18.637952+00:00",
+    "status": "confirmed"
+  },
+  "CRWD|1d|Double Bottom|2026-03-27 00:00:00": {
+    "first_seen": "2026-09-07T15:40:18.874601+00:00",
+    "status": "confirmed"
+  },
+  "CRWD|1d|Double Bottom|2026-05-27 00:00:00": {
+    "first_seen": "2026-09-07T15:40:19.000371+00:00",
+    "status": "confirmed"
+  },
+  "CRWD|1d|Head & Shoulders|2026-04-08 00:00:00": {
+    "first_seen": "2026-09-07T15:40:19.129405+00:00",
+    "status": "forming"
+  },
+  "CRWD|1d|Inverse Head & Shoulders|2026-07-13 00:00:00": {
+    "first_seen": "2026-09-07T15:40:19.279416+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Double Top|2025-09-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:19.858112+00:00",
+    "status": "confirmed"
+  },
+  "UBER|1d|Double Top|2025-11-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:20.069389+00:00",
+    "status": "confirmed"
+  },
+  "UBER|1d|Double Top|2026-03-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:20.198978+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Double Top|2026-05-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:20.329740+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Double Top|2026-06-01 00:00:00": {
+    "first_seen": "2026-09-07T15:40:20.458850+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Double Bottom|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:20.581220+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Double Bottom|2025-12-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:20.796992+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Double Bottom|2026-02-13 00:00:00": {
+    "first_seen": "2026-09-07T15:40:20.924044+00:00",
+    "status": "confirmed"
+  },
+  "UBER|1d|Double Bottom|2026-02-24 00:00:00": {
+    "first_seen": "2026-09-07T15:40:21.051818+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Double Bottom|2026-05-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:21.181280+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Double Bottom|2026-07-01 00:00:00": {
+    "first_seen": "2026-09-07T15:40:21.310824+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Head & Shoulders|2025-09-16 00:00:00": {
+    "first_seen": "2026-09-07T15:40:21.530077+00:00",
+    "status": "confirmed"
+  },
+  "UBER|1d|Head & Shoulders|2025-10-15 00:00:00": {
+    "first_seen": "2026-09-07T15:40:21.651910+00:00",
+    "status": "confirmed"
+  },
+  "UBER|1d|Head & Shoulders|2026-04-21 00:00:00": {
+    "first_seen": "2026-09-07T15:40:21.779094+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Inverse Head & Shoulders|2025-11-21 00:00:00": {
+    "first_seen": "2026-09-07T15:40:21.903542+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Inverse Head & Shoulders|2026-03-09 00:00:00": {
+    "first_seen": "2026-09-07T15:40:22.026494+00:00",
+    "status": "forming"
+  },
+  "UBER|1d|Inverse Head & Shoulders|2026-05-28 00:00:00": {
+    "first_seen": "2026-09-07T15:40:22.269291+00:00",
+    "status": "confirmed"
+  },
+  "UBER|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:40:22.396775+00:00",
+    "status": "forming"
+  },
+  "HOOD|1d|Double Top|2026-01-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:22.904158+00:00",
+    "status": "forming"
+  },
+  "HOOD|1d|Double Bottom|2025-09-26 00:00:00": {
+    "first_seen": "2026-09-07T15:40:23.024936+00:00",
+    "status": "forming"
+  },
+  "HOOD|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:23.145439+00:00",
+    "status": "forming"
+  },
+  "HOOD|1d|Double Bottom|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:23.275614+00:00",
+    "status": "confirmed"
+  },
+  "HOOD|1d|Double Bottom|2026-03-03 00:00:00": {
+    "first_seen": "2026-09-07T15:40:23.496659+00:00",
+    "status": "confirmed"
+  },
+  "HOOD|1d|Double Bottom|2026-05-08 00:00:00": {
+    "first_seen": "2026-09-07T15:40:23.623194+00:00",
+    "status": "confirmed"
+  },
+  "HOOD|1d|Head & Shoulders|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:40:23.746504+00:00",
+    "status": "forming"
+  },
+  "HOOD|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:40:23.870740+00:00",
+    "status": "forming"
+  },
+  "ETOR|1d|Double Top|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:24.390262+00:00",
+    "status": "forming"
+  },
+  "ETOR|1d|Double Top|2026-03-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:24.607701+00:00",
+    "status": "forming"
+  },
+  "ETOR|1d|Double Top|2026-05-14 00:00:00": {
+    "first_seen": "2026-09-07T15:40:24.734500+00:00",
+    "status": "confirmed"
+  },
+  "ETOR|1d|Double Bottom|2026-02-23 00:00:00": {
+    "first_seen": "2026-09-07T15:40:24.856411+00:00",
+    "status": "forming"
+  },
+  "ETOR|1d|Double Bottom|2026-05-28 00:00:00": {
+    "first_seen": "2026-09-07T15:40:24.979131+00:00",
+    "status": "forming"
+  },
+  "ETOR|1d|Double Bottom|2026-06-24 00:00:00": {
+    "first_seen": "2026-09-07T15:40:25.103825+00:00",
+    "status": "forming"
+  },
+  "ETOR|1d|Double Bottom|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:25.324737+00:00",
+    "status": "forming"
+  },
+  "ETOR|1d|Head & Shoulders|2026-05-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:25.451468+00:00",
+    "status": "confirmed"
+  },
+  "ETOR|1d|Inverse Head & Shoulders|2025-10-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:25.575795+00:00",
+    "status": "forming"
+  },
+  "ETOR|1d|Inverse Head & Shoulders|2026-02-23 00:00:00": {
+    "first_seen": "2026-09-07T15:40:25.699983+00:00",
+    "status": "forming"
+  },
+  "ETOR|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:40:25.826809+00:00",
+    "status": "forming"
+  },
+  "MELI|1d|Double Top|2025-11-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:26.470207+00:00",
+    "status": "confirmed"
+  },
+  "MELI|1d|Double Top|2026-03-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:26.597795+00:00",
+    "status": "forming"
+  },
+  "MELI|1d|Double Top|2026-04-21 00:00:00": {
+    "first_seen": "2026-09-07T15:40:26.718345+00:00",
+    "status": "forming"
+  },
+  "MELI|1d|Double Top|2026-06-01 00:00:00": {
+    "first_seen": "2026-09-07T15:40:26.844019+00:00",
+    "status": "forming"
+  },
+  "MELI|1d|Double Top|2026-07-15 00:00:00": {
+    "first_seen": "2026-09-07T15:40:26.967045+00:00",
+    "status": "forming"
+  },
+  "MELI|1d|Double Bottom|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:40:27.208014+00:00",
+    "status": "forming"
+  },
+  "MELI|1d|Double Bottom|2026-02-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:27.334758+00:00",
+    "status": "forming"
+  },
+  "MELI|1d|Double Bottom|2026-03-03 00:00:00": {
+    "first_seen": "2026-09-07T15:40:27.459235+00:00",
+    "status": "confirmed"
+  },
+  "MELI|1d|Double Bottom|2026-03-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:27.585366+00:00",
+    "status": "confirmed"
+  },
+  "MELI|1d|Double Bottom|2026-06-11 00:00:00": {
+    "first_seen": "2026-09-07T15:40:27.709448+00:00",
+    "status": "confirmed"
+  },
+  "MELI|1d|Double Bottom|2026-07-23 00:00:00": {
+    "first_seen": "2026-09-07T15:40:27.920341+00:00",
+    "status": "confirmed"
+  },
+  "MELI|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:40:28.043980+00:00",
+    "status": "forming"
+  },
+  "MELI|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:28.168262+00:00",
+    "status": "forming"
+  },
+  "NOK|1d|Double Top|2025-12-11 00:00:00": {
+    "first_seen": "2026-09-07T15:40:28.741412+00:00",
+    "status": "forming"
+  },
+  "NOK|1d|Double Top|2026-01-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:28.862914+00:00",
+    "status": "forming"
+  },
+  "NOK|1d|Double Bottom|2025-12-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:29.079409+00:00",
+    "status": "confirmed"
+  },
+  "NOK|1d|Double Bottom|2026-01-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:29.200924+00:00",
+    "status": "confirmed"
+  },
+  "NOK|1d|Double Bottom|2026-03-20 00:00:00": {
+    "first_seen": "2026-09-07T15:40:29.319077+00:00",
+    "status": "confirmed"
+  },
+  "NOK|1d|Head & Shoulders|2025-12-26 00:00:00": {
+    "first_seen": "2026-09-07T15:40:29.436718+00:00",
+    "status": "forming"
+  },
+  "NOK|1d|Head & Shoulders|2026-03-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:29.559846+00:00",
+    "status": "forming"
+  },
+  "NOK|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:29.780455+00:00",
+    "status": "forming"
+  },
+  "CRCL|1d|Double Top|2025-12-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:30.319219+00:00",
+    "status": "forming"
+  },
+  "CRCL|1d|Double Top|2026-01-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:30.469329+00:00",
+    "status": "forming"
+  },
+  "CRCL|1d|Double Top|2026-07-10 00:00:00": {
+    "first_seen": "2026-09-07T15:40:30.590674+00:00",
+    "status": "forming"
+  },
+  "CRCL|1d|Double Bottom|2025-09-26 00:00:00": {
+    "first_seen": "2026-09-07T15:40:30.709289+00:00",
+    "status": "forming"
+  },
+  "CRCL|1d|Double Bottom|2025-12-31 00:00:00": {
+    "first_seen": "2026-09-07T15:40:30.830745+00:00",
+    "status": "confirmed"
+  },
+  "CRCL|1d|Double Bottom|2026-05-11 00:00:00": {
+    "first_seen": "2026-09-07T15:40:31.067771+00:00",
+    "status": "forming"
+  },
+  "CRCL|1d|Double Bottom|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:31.191468+00:00",
+    "status": "confirmed"
+  },
+  "CRCL|1d|Head & Shoulders|2025-09-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:31.308420+00:00",
+    "status": "confirmed"
+  },
+  "CRCL|1d|Inverse Head & Shoulders|2026-07-01 00:00:00": {
+    "first_seen": "2026-09-07T15:40:31.457554+00:00",
+    "status": "confirmed"
+  },
+  "CRCL|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:40:31.578548+00:00",
+    "status": "forming"
+  },
+  "CRCL|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:40:31.795075+00:00",
+    "status": "confirmed"
+  },
+  "CRCL|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:31.910506+00:00",
+    "status": "confirmed"
+  },
+  "SOFI|1d|Double Top|2025-09-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:32.495375+00:00",
+    "status": "confirmed"
+  },
+  "SOFI|1d|Double Top|2025-10-29 00:00:00": {
+    "first_seen": "2026-09-07T15:40:32.618362+00:00",
+    "status": "confirmed"
+  },
+  "SOFI|1d|Double Top|2026-02-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:32.747768+00:00",
+    "status": "forming"
+  },
+  "SOFI|1d|Double Top|2026-06-01 00:00:00": {
+    "first_seen": "2026-09-07T15:40:32.974442+00:00",
+    "status": "forming"
+  },
+  "SOFI|1d|Double Top|2026-07-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:33.096896+00:00",
+    "status": "forming"
+  },
+  "SOFI|1d|Double Bottom|2025-12-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:33.220588+00:00",
+    "status": "forming"
+  },
+  "SOFI|1d|Double Bottom|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:33.345544+00:00",
+    "status": "forming"
+  },
+  "SOFI|1d|Double Bottom|2026-03-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:33.471261+00:00",
+    "status": "forming"
+  },
+  "SOFI|1d|Head & Shoulders|2026-07-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:33.674899+00:00",
+    "status": "forming"
+  },
+  "SOFI|1d|Inverse Head & Shoulders|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:33.792316+00:00",
+    "status": "forming"
+  },
+  "SOFI|1d|Inverse Head & Shoulders|2026-05-13 00:00:00": {
+    "first_seen": "2026-09-07T15:40:33.919211+00:00",
+    "status": "confirmed"
+  },
+  "SOFI|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:40:34.035475+00:00",
+    "status": "forming"
+  },
+  "BMNR|1d|Double Top|2025-09-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:34.653346+00:00",
+    "status": "confirmed"
+  },
+  "BMNR|1d|Double Top|2026-01-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:34.856978+00:00",
+    "status": "confirmed"
+  },
+  "BMNR|1d|Double Top|2026-02-13 00:00:00": {
+    "first_seen": "2026-09-07T15:40:34.974773+00:00",
+    "status": "forming"
+  },
+  "BMNR|1d|Double Top|2026-04-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:35.104789+00:00",
+    "status": "forming"
+  },
+  "BMNR|1d|Double Bottom|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:35.230938+00:00",
+    "status": "forming"
+  },
+  "BMNR|1d|Double Bottom|2026-02-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:35.358502+00:00",
+    "status": "confirmed"
+  },
+  "BMNR|1d|Head & Shoulders|2026-02-13 00:00:00": {
+    "first_seen": "2026-09-07T15:40:35.581032+00:00",
+    "status": "forming"
+  },
+  "BMNR|1d|Head & Shoulders|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:40:35.709705+00:00",
+    "status": "forming"
+  },
+  "BMNR|1d|Inverse Head & Shoulders|2025-12-18 00:00:00": {
+    "first_seen": "2026-09-07T15:40:35.844633+00:00",
+    "status": "forming"
+  },
+  "BMNR|1d|Inverse Head & Shoulders|2026-02-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:35.974668+00:00",
+    "status": "confirmed"
+  },
+  "BMNR|1d|Inverse Head & Shoulders|2026-03-20 00:00:00": {
+    "first_seen": "2026-09-07T15:40:36.100635+00:00",
+    "status": "confirmed"
+  },
+  "BMNR|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:40:36.326512+00:00",
+    "status": "confirmed"
+  },
+  "BMNR|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:36.448436+00:00",
+    "status": "confirmed"
+  },
+  "SBET|1d|Double Top|2026-04-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:37.036031+00:00",
+    "status": "forming"
+  },
+  "SBET|1d|Double Top|2026-07-28 00:00:00": {
+    "first_seen": "2026-09-07T15:40:37.155240+00:00",
+    "status": "forming"
+  },
+  "SBET|1d|Double Bottom|2026-07-31 00:00:00": {
+    "first_seen": "2026-09-07T15:40:37.273737+00:00",
+    "status": "confirmed"
+  },
+  "SBET|1d|Head & Shoulders|2026-07-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:37.396787+00:00",
+    "status": "forming"
+  },
+  "SBET|1d|Inverse Head & Shoulders|2026-06-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:37.632090+00:00",
+    "status": "confirmed"
+  },
+  "SBET|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:40:37.750930+00:00",
+    "status": "confirmed"
+  },
+  "SBET|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:37.867731+00:00",
+    "status": "confirmed"
+  },
+  "MSTR|1d|Double Top|2025-09-18 00:00:00": {
+    "first_seen": "2026-09-07T15:40:38.487595+00:00",
+    "status": "confirmed"
+  },
+  "MSTR|1d|Double Top|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:40:38.616003+00:00",
+    "status": "forming"
+  },
+  "MSTR|1d|Double Top|2026-07-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:38.851252+00:00",
+    "status": "forming"
+  },
+  "MSTR|1d|Double Bottom|2026-01-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:38.977012+00:00",
+    "status": "forming"
+  },
+  "MSTR|1d|Double Bottom|2026-03-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:39.103419+00:00",
+    "status": "forming"
+  },
+  "MSTR|1d|Double Bottom|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:39.228960+00:00",
+    "status": "confirmed"
+  },
+  "MSTR|1d|Double Bottom|2026-07-24 00:00:00": {
+    "first_seen": "2026-09-07T15:40:39.454393+00:00",
+    "status": "confirmed"
+  },
+  "MSTR|1d|Head & Shoulders|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:40:39.684280+00:00",
+    "status": "forming"
+  },
+  "MSTR|1d|Head & Shoulders|2026-07-15 00:00:00": {
+    "first_seen": "2026-09-07T15:40:39.805663+00:00",
+    "status": "forming"
+  },
+  "MSTR|1d|Inverse Head & Shoulders|2026-07-24 00:00:00": {
+    "first_seen": "2026-09-07T15:40:39.927909+00:00",
+    "status": "confirmed"
+  },
+  "MSTR|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:40:40.054381+00:00",
+    "status": "forming"
+  },
+  "MSTR|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:40.181786+00:00",
+    "status": "confirmed"
+  },
+  "FIGR|1d|Double Top|2026-03-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:40.830006+00:00",
+    "status": "forming"
+  },
+  "FIGR|1d|Double Bottom|2026-03-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:40.955243+00:00",
+    "status": "confirmed"
+  },
+  "FIGR|1d|Head & Shoulders|2025-09-18 00:00:00": {
+    "first_seen": "2026-09-07T15:40:41.075424+00:00",
+    "status": "confirmed"
+  },
+  "FIGR|1d|Head & Shoulders|2026-02-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:41.200694+00:00",
+    "status": "forming"
+  },
+  "FIGR|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:40:41.324147+00:00",
+    "status": "forming"
+  },
+  "FIGR|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:41.534321+00:00",
+    "status": "confirmed"
+  },
+  "LLY|1d|Double Top|2025-11-26 00:00:00": {
+    "first_seen": "2026-09-07T15:40:42.135435+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Double Top|2026-01-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:42.265298+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Double Top|2026-04-01 00:00:00": {
+    "first_seen": "2026-09-07T15:40:42.394437+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Double Top|2026-05-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:42.528347+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Double Top|2026-05-28 00:00:00": {
+    "first_seen": "2026-09-07T15:40:42.774232+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Double Top|2026-07-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:42.897713+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Double Top|2026-07-28 00:00:00": {
+    "first_seen": "2026-09-07T15:40:43.022286+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Double Bottom|2026-01-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:43.154221+00:00",
+    "status": "confirmed"
+  },
+  "LLY|1d|Double Bottom|2026-01-15 00:00:00": {
+    "first_seen": "2026-09-07T15:40:43.305755+00:00",
+    "status": "confirmed"
+  },
+  "LLY|1d|Double Bottom|2026-02-03 00:00:00": {
+    "first_seen": "2026-09-07T15:40:43.432757+00:00",
+    "status": "confirmed"
+  },
+  "LLY|1d|Double Bottom|2026-02-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:43.673627+00:00",
+    "status": "confirmed"
+  },
+  "LLY|1d|Double Bottom|2026-03-27 00:00:00": {
+    "first_seen": "2026-09-07T15:40:43.800095+00:00",
+    "status": "confirmed"
+  },
+  "LLY|1d|Double Bottom|2026-06-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:43.923053+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Double Bottom|2026-07-21 00:00:00": {
+    "first_seen": "2026-09-07T15:40:44.045951+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Head & Shoulders|2025-12-23 00:00:00": {
+    "first_seen": "2026-09-07T15:40:44.168978+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Head & Shoulders|2026-01-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:44.401042+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Inverse Head & Shoulders|2026-07-21 00:00:00": {
+    "first_seen": "2026-09-07T15:40:44.522417+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Rectangle / Range|": {
+    "first_seen": "2026-09-07T15:40:44.646780+00:00",
+    "status": "forming"
+  },
+  "LLY|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:40:44.770962+00:00",
+    "status": "forming"
+  },
+  "UNH|1d|Double Top|2025-09-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:45.367344+00:00",
+    "status": "forming"
+  },
+  "UNH|1d|Double Top|2025-10-09 00:00:00": {
+    "first_seen": "2026-09-07T15:40:45.586915+00:00",
+    "status": "forming"
+  },
+  "UNH|1d|Double Top|2025-11-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:45.709498+00:00",
+    "status": "forming"
+  },
+  "UNH|1d|Double Top|2025-12-03 00:00:00": {
+    "first_seen": "2026-09-07T15:40:45.838852+00:00",
+    "status": "forming"
+  },
+  "UNH|1d|Double Top|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:45.971762+00:00",
+    "status": "forming"
+  },
+  "UNH|1d|Double Top|2026-03-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:46.099029+00:00",
+    "status": "forming"
+  },
+  "UNH|1d|Double Bottom|2025-12-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:46.325835+00:00",
+    "status": "confirmed"
+  },
+  "UNH|1d|Double Bottom|2025-12-10 00:00:00": {
+    "first_seen": "2026-09-07T15:40:46.451429+00:00",
+    "status": "confirmed"
+  },
+  "UNH|1d|Double Bottom|2026-01-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:46.579319+00:00",
+    "status": "confirmed"
+  },
+  "UNH|1d|Double Bottom|2026-02-05 00:00:00": {
+    "first_seen": "2026-09-07T15:40:46.701769+00:00",
+    "status": "confirmed"
+  },
+  "UNH|1d|Double Bottom|2026-04-27 00:00:00": {
+    "first_seen": "2026-09-07T15:40:46.824992+00:00",
+    "status": "confirmed"
+  },
+  "UNH|1d|Double Bottom|2026-08-20 00:00:00": {
+    "first_seen": "2026-09-07T15:40:47.039755+00:00",
+    "status": "forming"
+  },
+  "UNH|1d|Head & Shoulders|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:47.162387+00:00",
+    "status": "forming"
+  },
+  "UNH|1d|Inverse Head & Shoulders|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:47.290058+00:00",
+    "status": "confirmed"
+  },
+  "UNH|1d|Inverse Head & Shoulders|2025-12-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:47.420719+00:00",
+    "status": "confirmed"
+  },
+  "UNH|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:40:47.560047+00:00",
+    "status": "forming"
+  },
+  "EL|1d|Double Top|2025-09-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:48.387350+00:00",
+    "status": "forming"
+  },
+  "EL|1d|Double Top|2025-12-11 00:00:00": {
+    "first_seen": "2026-09-07T15:40:48.514344+00:00",
+    "status": "forming"
+  },
+  "EL|1d|Double Top|2026-01-13 00:00:00": {
+    "first_seen": "2026-09-07T15:40:48.641260+00:00",
+    "status": "confirmed"
+  },
+  "EL|1d|Double Top|2026-04-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:48.764913+00:00",
+    "status": "forming"
+  },
+  "EL|1d|Double Top|2026-07-13 00:00:00": {
+    "first_seen": "2026-09-07T15:40:48.892273+00:00",
+    "status": "forming"
+  },
+  "EL|1d|Double Bottom|2025-09-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:49.167823+00:00",
+    "status": "confirmed"
+  },
+  "EL|1d|Double Bottom|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:49.302435+00:00",
+    "status": "confirmed"
+  },
+  "EL|1d|Double Bottom|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:40:49.438806+00:00",
+    "status": "confirmed"
+  },
+  "EL|1d|Double Bottom|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:49.570235+00:00",
+    "status": "confirmed"
+  },
+  "EL|1d|Double Bottom|2026-01-20 00:00:00": {
+    "first_seen": "2026-09-07T15:40:49.704026+00:00",
+    "status": "forming"
+  },
+  "EL|1d|Double Bottom|2026-04-23 00:00:00": {
+    "first_seen": "2026-09-07T15:40:49.832109+00:00",
+    "status": "confirmed"
+  },
+  "EL|1d|Double Bottom|2026-04-30 00:00:00": {
+    "first_seen": "2026-09-07T15:40:50.065987+00:00",
+    "status": "confirmed"
+  },
+  "EL|1d|Double Bottom|2026-07-14 00:00:00": {
+    "first_seen": "2026-09-07T15:40:50.193444+00:00",
+    "status": "confirmed"
+  },
+  "EL|1d|Head & Shoulders|2026-01-22 00:00:00": {
+    "first_seen": "2026-09-07T15:40:50.530677+00:00",
+    "status": "forming"
+  },
+  "EL|1d|Inverse Head & Shoulders|2025-09-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:50.658844+00:00",
+    "status": "confirmed"
+  },
+  "EL|1d|Inverse Head & Shoulders|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:40:50.784904+00:00",
+    "status": "confirmed"
+  },
+  "EL|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:40:50.991694+00:00",
+    "status": "confirmed"
+  },
+  "EL|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:51.115851+00:00",
+    "status": "confirmed"
+  },
+  "NVO|1d|Double Top|2025-09-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:51.703516+00:00",
+    "status": "confirmed"
+  },
+  "NVO|1d|Double Top|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:40:51.819184+00:00",
+    "status": "forming"
+  },
+  "NVO|1d|Double Top|2025-11-28 00:00:00": {
+    "first_seen": "2026-09-07T15:40:51.939701+00:00",
+    "status": "forming"
+  },
+  "NVO|1d|Double Top|2026-07-02 00:00:00": {
+    "first_seen": "2026-09-07T15:40:52.155512+00:00",
+    "status": "confirmed"
+  },
+  "NVO|1d|Double Bottom|2026-03-03 00:00:00": {
+    "first_seen": "2026-09-07T15:40:52.275720+00:00",
+    "status": "confirmed"
+  },
+  "NVO|1d|Double Bottom|2026-07-14 00:00:00": {
+    "first_seen": "2026-09-07T15:40:52.399315+00:00",
+    "status": "forming"
+  },
+  "NVO|1d|Double Bottom|2026-08-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:52.523385+00:00",
+    "status": "forming"
+  },
+  "NVO|1d|Inverse Head & Shoulders|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:40:52.644760+00:00",
+    "status": "forming"
+  },
+  "NVO|1d|Triunghi descendent|": {
+    "first_seen": "2026-09-07T15:40:52.857120+00:00",
+    "status": "forming"
+  },
+  "GLW|1d|Double Top|2025-10-31 00:00:00": {
+    "first_seen": "2026-09-07T15:40:53.636973+00:00",
+    "status": "forming"
+  },
+  "GLW|1d|Double Top|2026-04-10 00:00:00": {
+    "first_seen": "2026-09-07T15:40:53.766863+00:00",
+    "status": "confirmed"
+  },
+  "GLW|1d|Double Bottom|2025-10-28 00:00:00": {
+    "first_seen": "2026-09-07T15:40:53.894346+00:00",
+    "status": "confirmed"
+  },
+  "GLW|1d|Double Bottom|2026-03-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:54.021100+00:00",
+    "status": "confirmed"
+  },
+  "GLW|1d|Double Bottom|2026-05-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:54.284117+00:00",
+    "status": "forming"
+  },
+  "GLW|1d|Head & Shoulders|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:40:54.405703+00:00",
+    "status": "forming"
+  },
+  "GLW|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:54.532930+00:00",
+    "status": "forming"
+  },
+  "GLW|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:40:54.660026+00:00",
+    "status": "confirmed"
+  },
+  "CMG|1d|Double Top|2025-10-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:55.177852+00:00",
+    "status": "confirmed"
+  },
+  "CMG|1d|Double Top|2026-01-21 00:00:00": {
+    "first_seen": "2026-09-07T15:40:55.399752+00:00",
+    "status": "confirmed"
+  },
+  "CMG|1d|Double Top|2026-02-18 00:00:00": {
+    "first_seen": "2026-09-07T15:40:55.523141+00:00",
+    "status": "forming"
+  },
+  "CMG|1d|Double Top|2026-03-23 00:00:00": {
+    "first_seen": "2026-09-07T15:40:55.655796+00:00",
+    "status": "forming"
+  },
+  "CMG|1d|Double Top|2026-05-27 00:00:00": {
+    "first_seen": "2026-09-07T15:40:55.785787+00:00",
+    "status": "forming"
+  },
+  "CMG|1d|Double Bottom|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:40:55.911407+00:00",
+    "status": "forming"
+  },
+  "CMG|1d|Double Bottom|2025-10-01 00:00:00": {
+    "first_seen": "2026-09-07T15:40:56.122517+00:00",
+    "status": "forming"
+  },
+  "CMG|1d|Double Bottom|2026-02-12 00:00:00": {
+    "first_seen": "2026-09-07T15:40:56.246601+00:00",
+    "status": "forming"
+  },
+  "CMG|1d|Inverse Head & Shoulders|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:56.369504+00:00",
+    "status": "forming"
+  },
+  "CMG|1d|Inverse Head & Shoulders|2026-02-04 00:00:00": {
+    "first_seen": "2026-09-07T15:40:56.496780+00:00",
+    "status": "forming"
+  },
+  "CMG|1d|Inverse Head & Shoulders|2026-03-19 00:00:00": {
+    "first_seen": "2026-09-07T15:40:56.628054+00:00",
+    "status": "confirmed"
+  },
+  "CMG|1d|Inverse Head & Shoulders|2026-05-11 00:00:00": {
+    "first_seen": "2026-09-07T15:40:56.861534+00:00",
+    "status": "confirmed"
+  },
+  "CMG|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:40:56.985555+00:00",
+    "status": "confirmed"
+  },
+  "CAVA|1d|Double Top|2025-09-24 00:00:00": {
+    "first_seen": "2026-09-07T15:40:57.549303+00:00",
+    "status": "forming"
+  },
+  "CAVA|1d|Double Top|2025-10-15 00:00:00": {
+    "first_seen": "2026-09-07T15:40:57.678892+00:00",
+    "status": "confirmed"
+  },
+  "CAVA|1d|Double Top|2025-12-04 00:00:00": {
+    "first_seen": "2026-09-07T15:40:57.809956+00:00",
+    "status": "forming"
+  },
+  "CAVA|1d|Double Top|2026-03-18 00:00:00": {
+    "first_seen": "2026-09-07T15:40:58.011182+00:00",
+    "status": "confirmed"
+  },
+  "CAVA|1d|Double Top|2026-04-21 00:00:00": {
+    "first_seen": "2026-09-07T15:40:58.138560+00:00",
+    "status": "confirmed"
+  },
+  "CAVA|1d|Double Top|2026-08-14 00:00:00": {
+    "first_seen": "2026-09-07T15:40:58.260050+00:00",
+    "status": "confirmed"
+  },
+  "CAVA|1d|Double Bottom|2026-03-06 00:00:00": {
+    "first_seen": "2026-09-07T15:40:58.386789+00:00",
+    "status": "forming"
+  },
+  "CAVA|1d|Double Bottom|2026-07-23 00:00:00": {
+    "first_seen": "2026-09-07T15:40:58.513513+00:00",
+    "status": "forming"
+  },
+  "CAVA|1d|Head & Shoulders|2026-02-25 00:00:00": {
+    "first_seen": "2026-09-07T15:40:58.724380+00:00",
+    "status": "confirmed"
+  },
+  "CAVA|1d|Inverse Head & Shoulders|2025-09-17 00:00:00": {
+    "first_seen": "2026-09-07T15:40:58.849245+00:00",
+    "status": "forming"
+  },
+  "CAVA|1d|Inverse Head & Shoulders|2026-05-21 00:00:00": {
+    "first_seen": "2026-09-07T15:40:58.970734+00:00",
+    "status": "forming"
+  },
+  "CAVA|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:40:59.092586+00:00",
+    "status": "forming"
+  },
+  "SHAK|1d|Double Top|2025-10-03 00:00:00": {
+    "first_seen": "2026-09-07T15:40:59.596804+00:00",
+    "status": "confirmed"
+  },
+  "SHAK|1d|Double Top|2025-10-15 00:00:00": {
+    "first_seen": "2026-09-07T15:40:59.839608+00:00",
+    "status": "confirmed"
+  },
+  "SHAK|1d|Double Top|2025-11-03 00:00:00": {
+    "first_seen": "2026-09-07T15:40:59.963596+00:00",
+    "status": "confirmed"
+  },
+  "SHAK|1d|Double Top|2026-04-21 00:00:00": {
+    "first_seen": "2026-09-07T15:41:00.083811+00:00",
+    "status": "confirmed"
+  },
+  "SHAK|1d|Double Top|2026-08-14 00:00:00": {
+    "first_seen": "2026-09-07T15:41:00.209702+00:00",
+    "status": "confirmed"
+  },
+  "SHAK|1d|Double Bottom|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:41:00.367228+00:00",
+    "status": "forming"
+  },
+  "SHAK|1d|Double Bottom|2026-01-12 00:00:00": {
+    "first_seen": "2026-09-07T15:41:00.585238+00:00",
+    "status": "forming"
+  },
+  "SHAK|1d|Double Bottom|2026-01-29 00:00:00": {
+    "first_seen": "2026-09-07T15:41:00.708700+00:00",
+    "status": "forming"
+  },
+  "SHAK|1d|Double Bottom|2026-06-23 00:00:00": {
+    "first_seen": "2026-09-07T15:41:00.829721+00:00",
+    "status": "confirmed"
+  },
+  "SHAK|1d|Head & Shoulders|2025-10-15 00:00:00": {
+    "first_seen": "2026-09-07T15:41:00.954846+00:00",
+    "status": "confirmed"
+  },
+  "SHAK|1d|Head & Shoulders|2026-02-09 00:00:00": {
+    "first_seen": "2026-09-07T15:41:01.083724+00:00",
+    "status": "confirmed"
+  },
+  "SHAK|1d|Inverse Head & Shoulders|2025-10-02 00:00:00": {
+    "first_seen": "2026-09-07T15:41:01.213942+00:00",
+    "status": "forming"
+  },
+  "SHAK|1d|Inverse Head & Shoulders|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:41:01.447954+00:00",
+    "status": "forming"
+  },
+  "SHAK|1d|Inverse Head & Shoulders|2026-01-12 00:00:00": {
+    "first_seen": "2026-09-07T15:41:01.568203+00:00",
+    "status": "forming"
+  },
+  "SHAK|1d|Inverse Head & Shoulders|2026-06-23 00:00:00": {
+    "first_seen": "2026-09-07T15:41:01.696552+00:00",
+    "status": "confirmed"
+  },
+  "SHAK|1d|Rounding Top|": {
+    "first_seen": "2026-09-07T15:41:01.825982+00:00",
+    "status": "forming"
+  },
+  "SHAK|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:41:01.953950+00:00",
+    "status": "forming"
+  },
+  "LMND|1d|Double Top|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:41:02.562448+00:00",
+    "status": "confirmed"
+  },
+  "LMND|1d|Double Top|2026-05-27 00:00:00": {
+    "first_seen": "2026-09-07T15:41:02.694769+00:00",
+    "status": "forming"
+  },
+  "LMND|1d|Double Bottom|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:41:02.833478+00:00",
+    "status": "forming"
+  },
+  "LMND|1d|Double Bottom|2025-12-02 00:00:00": {
+    "first_seen": "2026-09-07T15:41:02.968541+00:00",
+    "status": "forming"
+  },
+  "LMND|1d|Double Bottom|2026-03-12 00:00:00": {
+    "first_seen": "2026-09-07T15:41:03.109372+00:00",
+    "status": "forming"
+  },
+  "LMND|1d|Double Bottom|2026-05-07 00:00:00": {
+    "first_seen": "2026-09-07T15:41:03.388268+00:00",
+    "status": "forming"
+  },
+  "LMND|1d|Round Bottom|": {
+    "first_seen": "2026-09-07T15:41:03.523943+00:00",
+    "status": "forming"
+  },
+  "LMND|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:41:03.658619+00:00",
+    "status": "forming"
+  },
+  "NFLX|1d|Double Top|2025-09-29 00:00:00": {
+    "first_seen": "2026-09-07T15:41:04.198620+00:00",
+    "status": "confirmed"
+  },
+  "NFLX|1d|Double Top|2025-10-10 00:00:00": {
+    "first_seen": "2026-09-07T15:41:04.328228+00:00",
+    "status": "confirmed"
+  },
+  "NFLX|1d|Double Top|2025-10-31 00:00:00": {
+    "first_seen": "2026-09-07T15:41:04.552199+00:00",
+    "status": "confirmed"
+  },
+  "NFLX|1d|Double Top|2025-12-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:04.678817+00:00",
+    "status": "confirmed"
+  },
+  "NFLX|1d|Double Top|2026-01-26 00:00:00": {
+    "first_seen": "2026-09-07T15:41:04.811312+00:00",
+    "status": "confirmed"
+  },
+  "NFLX|1d|Double Bottom|2025-10-27 00:00:00": {
+    "first_seen": "2026-09-07T15:41:04.942022+00:00",
+    "status": "forming"
+  },
+  "NFLX|1d|Double Bottom|2025-12-10 00:00:00": {
+    "first_seen": "2026-09-07T15:41:05.067344+00:00",
+    "status": "forming"
+  },
+  "NFLX|1d|Double Bottom|2026-03-20 00:00:00": {
+    "first_seen": "2026-09-07T15:41:05.307208+00:00",
+    "status": "forming"
+  },
+  "NFLX|1d|Inverse Head & Shoulders|2025-09-15 00:00:00": {
+    "first_seen": "2026-09-07T15:41:05.428575+00:00",
+    "status": "forming"
+  },
+  "NFLX|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:41:05.554404+00:00",
+    "status": "forming"
+  },
+  "NFLX|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:41:05.677548+00:00",
+    "status": "confirmed"
+  },
+  "AAPL|1d|Double Top|2025-10-03 00:00:00": {
+    "first_seen": "2026-09-07T15:41:06.320854+00:00",
+    "status": "forming"
+  },
+  "AAPL|1d|Double Top|2025-10-31 00:00:00": {
+    "first_seen": "2026-09-07T15:41:06.546362+00:00",
+    "status": "forming"
+  },
+  "AAPL|1d|Double Top|2026-02-06 00:00:00": {
+    "first_seen": "2026-09-07T15:41:06.675896+00:00",
+    "status": "forming"
+  },
+  "AAPL|1d|Double Top|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:06.798110+00:00",
+    "status": "forming"
+  },
+  "AAPL|1d|Double Top|2026-08-06 00:00:00": {
+    "first_seen": "2026-09-07T15:41:06.921422+00:00",
+    "status": "forming"
+  },
+  "AAPL|1d|Double Bottom|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:41:07.044423+00:00",
+    "status": "confirmed"
+  },
+  "AAPL|1d|Double Bottom|2025-11-18 00:00:00": {
+    "first_seen": "2026-09-07T15:41:07.286625+00:00",
+    "status": "confirmed"
+  },
+  "AAPL|1d|Double Bottom|2026-01-30 00:00:00": {
+    "first_seen": "2026-09-07T15:41:07.412933+00:00",
+    "status": "confirmed"
+  },
+  "AAPL|1d|Double Bottom|2026-03-20 00:00:00": {
+    "first_seen": "2026-09-07T15:41:07.537691+00:00",
+    "status": "confirmed"
+  },
+  "AAPL|1d|Double Bottom|2026-03-30 00:00:00": {
+    "first_seen": "2026-09-07T15:41:07.660744+00:00",
+    "status": "confirmed"
+  },
+  "AAPL|1d|Double Bottom|2026-07-31 00:00:00": {
+    "first_seen": "2026-09-07T15:41:07.784872+00:00",
+    "status": "confirmed"
+  },
+  "AAPL|1d|Head & Shoulders|2026-05-15 00:00:00": {
+    "first_seen": "2026-09-07T15:41:07.912037+00:00",
+    "status": "forming"
+  },
+  "AAPL|1d|Inverse Head & Shoulders|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:41:08.138006+00:00",
+    "status": "confirmed"
+  },
+  "AAPL|1d|Inverse Head & Shoulders|2026-01-08 00:00:00": {
+    "first_seen": "2026-09-07T15:41:08.261254+00:00",
+    "status": "confirmed"
+  },
+  "BMY|1d|Double Top|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:41:08.885197+00:00",
+    "status": "forming"
+  },
+  "BMY|1d|Double Top|2026-01-14 00:00:00": {
+    "first_seen": "2026-09-07T15:41:09.015575+00:00",
+    "status": "forming"
+  },
+  "BMY|1d|Double Top|2026-02-06 00:00:00": {
+    "first_seen": "2026-09-07T15:41:09.148138+00:00",
+    "status": "forming"
+  },
+  "BMY|1d|Double Top|2026-03-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:09.402549+00:00",
+    "status": "forming"
+  },
+  "BMY|1d|Double Top|2026-04-01 00:00:00": {
+    "first_seen": "2026-09-07T15:41:09.534401+00:00",
+    "status": "forming"
+  },
+  "BMY|1d|Double Top|2026-08-03 00:00:00": {
+    "first_seen": "2026-09-07T15:41:09.665008+00:00",
+    "status": "forming"
+  },
+  "BMY|1d|Double Bottom|2025-09-25 00:00:00": {
+    "first_seen": "2026-09-07T15:41:09.799383+00:00",
+    "status": "confirmed"
+  },
+  "BMY|1d|Double Bottom|2025-10-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:09.946535+00:00",
+    "status": "confirmed"
+  },
+  "BMY|1d|Double Bottom|2026-01-05 00:00:00": {
+    "first_seen": "2026-09-07T15:41:10.237821+00:00",
+    "status": "confirmed"
+  },
+  "BMY|1d|Double Bottom|2026-01-21 00:00:00": {
+    "first_seen": "2026-09-07T15:41:10.374311+00:00",
+    "status": "confirmed"
+  },
+  "BMY|1d|Double Bottom|2026-02-19 00:00:00": {
+    "first_seen": "2026-09-07T15:41:10.514109+00:00",
+    "status": "confirmed"
+  },
+  "BMY|1d|Double Bottom|2026-04-07 00:00:00": {
+    "first_seen": "2026-09-07T15:41:10.651643+00:00",
+    "status": "confirmed"
+  },
+  "BMY|1d|Double Bottom|2026-06-02 00:00:00": {
+    "first_seen": "2026-09-07T15:41:10.786121+00:00",
+    "status": "confirmed"
+  },
+  "BMY|1d|Head & Shoulders|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:41:11.023473+00:00",
+    "status": "forming"
+  },
+  "BMY|1d|Head & Shoulders|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:11.155181+00:00",
+    "status": "forming"
+  },
+  "BMY|1d|Head & Shoulders|2026-03-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:11.290840+00:00",
+    "status": "forming"
+  },
+  "BMY|1d|Inverse Head & Shoulders|2026-03-12 00:00:00": {
+    "first_seen": "2026-09-07T15:41:11.429608+00:00",
+    "status": "confirmed"
+  },
+  "BMY|1d|Inverse Head & Shoulders|2026-05-11 00:00:00": {
+    "first_seen": "2026-09-07T15:41:11.570069+00:00",
+    "status": "confirmed"
+  },
+  "BMY|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:41:11.838677+00:00",
+    "status": "confirmed"
+  },
+  "BMY|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:41:11.969138+00:00",
+    "status": "forming"
+  },
+  "NUE|1d|Double Top|2025-10-09 00:00:00": {
+    "first_seen": "2026-09-07T15:41:12.558303+00:00",
+    "status": "forming"
+  },
+  "NUE|1d|Double Top|2025-12-03 00:00:00": {
+    "first_seen": "2026-09-07T15:41:12.695304+00:00",
+    "status": "forming"
+  },
+  "NUE|1d|Double Top|2026-06-04 00:00:00": {
+    "first_seen": "2026-09-07T15:41:12.834698+00:00",
+    "status": "forming"
+  },
+  "NUE|1d|Double Bottom|2025-09-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:13.081217+00:00",
+    "status": "confirmed"
+  },
+  "NUE|1d|Double Bottom|2025-12-09 00:00:00": {
+    "first_seen": "2026-09-07T15:41:13.240852+00:00",
+    "status": "confirmed"
+  },
+  "NUE|1d|Double Bottom|2025-12-31 00:00:00": {
+    "first_seen": "2026-09-07T15:41:13.372406+00:00",
+    "status": "confirmed"
+  },
+  "NUE|1d|Double Bottom|2026-01-09 00:00:00": {
+    "first_seen": "2026-09-07T15:41:13.509080+00:00",
+    "status": "confirmed"
+  },
+  "NUE|1d|Head & Shoulders|2026-01-26 00:00:00": {
+    "first_seen": "2026-09-07T15:41:13.644323+00:00",
+    "status": "forming"
+  },
+  "NUE|1d|Inverse Head & Shoulders|2025-12-31 00:00:00": {
+    "first_seen": "2026-09-07T15:41:13.889534+00:00",
+    "status": "confirmed"
+  },
+  "NUE|1d|Inverse Head & Shoulders|2026-06-23 00:00:00": {
+    "first_seen": "2026-09-07T15:41:14.022544+00:00",
+    "status": "confirmed"
+  },
+  "NUE|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:41:14.155620+00:00",
+    "status": "forming"
+  },
+  "IREN|1d|Double Top|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:41:14.692040+00:00",
+    "status": "forming"
+  },
+  "IREN|1d|Double Top|2026-03-16 00:00:00": {
+    "first_seen": "2026-09-07T15:41:14.815804+00:00",
+    "status": "forming"
+  },
+  "IREN|1d|Double Bottom|2025-11-21 00:00:00": {
+    "first_seen": "2026-09-07T15:41:15.050292+00:00",
+    "status": "forming"
+  },
+  "IREN|1d|Head & Shoulders|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:41:15.173039+00:00",
+    "status": "forming"
+  },
+  "IREN|1d|Inverse Head & Shoulders|2026-02-23 00:00:00": {
+    "first_seen": "2026-09-07T15:41:15.297835+00:00",
+    "status": "forming"
+  },
+  "IREN|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:41:15.423955+00:00",
+    "status": "confirmed"
+  },
+  "CLSK|1d|Double Top|2025-11-28 00:00:00": {
+    "first_seen": "2026-09-07T15:41:16.062693+00:00",
+    "status": "confirmed"
+  },
+  "CLSK|1d|Double Top|2026-02-25 00:00:00": {
+    "first_seen": "2026-09-07T15:41:16.291770+00:00",
+    "status": "forming"
+  },
+  "CLSK|1d|Double Top|2026-03-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:16.418957+00:00",
+    "status": "forming"
+  },
+  "CLSK|1d|Double Bottom|2026-03-09 00:00:00": {
+    "first_seen": "2026-09-07T15:41:16.544376+00:00",
+    "status": "confirmed"
+  },
+  "CLSK|1d|Double Bottom|2026-07-08 00:00:00": {
+    "first_seen": "2026-09-07T15:41:16.670030+00:00",
+    "status": "forming"
+  },
+  "CLSK|1d|Double Bottom|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:16.793085+00:00",
+    "status": "forming"
+  },
+  "CLSK|1d|Head & Shoulders|2026-07-14 00:00:00": {
+    "first_seen": "2026-09-07T15:41:16.913408+00:00",
+    "status": "forming"
+  },
+  "CLSK|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:41:17.142888+00:00",
+    "status": "forming"
+  },
+  "ALAB|1d|Double Top|2025-12-08 00:00:00": {
+    "first_seen": "2026-09-07T15:41:17.718192+00:00",
+    "status": "forming"
+  },
+  "ALAB|1d|Double Top|2026-01-05 00:00:00": {
+    "first_seen": "2026-09-07T15:41:17.842645+00:00",
+    "status": "forming"
+  },
+  "ALAB|1d|Double Top|2026-01-20 00:00:00": {
+    "first_seen": "2026-09-07T15:41:17.966882+00:00",
+    "status": "forming"
+  },
+  "ALAB|1d|Double Top|2026-02-20 00:00:00": {
+    "first_seen": "2026-09-07T15:41:18.093981+00:00",
+    "status": "forming"
+  },
+  "ALAB|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:18.325159+00:00",
+    "status": "confirmed"
+  },
+  "ALAB|1d|Double Bottom|2025-12-02 00:00:00": {
+    "first_seen": "2026-09-07T15:41:18.455850+00:00",
+    "status": "confirmed"
+  },
+  "ALAB|1d|Double Bottom|2026-06-26 00:00:00": {
+    "first_seen": "2026-09-07T15:41:18.584073+00:00",
+    "status": "forming"
+  },
+  "ALAB|1d|Inverse Head & Shoulders|2026-02-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:18.716862+00:00",
+    "status": "confirmed"
+  },
+  "ALAB|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:41:18.846120+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Double Top|2025-09-12 00:00:00": {
+    "first_seen": "2026-09-07T15:41:19.491446+00:00",
+    "status": "confirmed"
+  },
+  "BTC-USD|1d|Double Top|2025-11-28 00:00:00": {
+    "first_seen": "2026-09-07T15:41:19.623318+00:00",
+    "status": "confirmed"
+  },
+  "BTC-USD|1d|Double Top|2025-12-03 00:00:00": {
+    "first_seen": "2026-09-07T15:41:19.754164+00:00",
+    "status": "confirmed"
+  },
+  "BTC-USD|1d|Double Top|2025-12-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:19.885681+00:00",
+    "status": "confirmed"
+  },
+  "BTC-USD|1d|Double Top|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:41:20.015602+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Double Top|2026-04-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:20.256301+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Double Top|2026-06-15 00:00:00": {
+    "first_seen": "2026-09-07T15:41:20.381257+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Double Top|2026-06-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:20.503066+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Double Top|2026-08-28 00:00:00": {
+    "first_seen": "2026-09-07T15:41:20.623141+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Double Bottom|2025-10-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:20.748087+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Double Bottom|2025-12-18 00:00:00": {
+    "first_seen": "2026-09-07T15:41:20.962526+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Double Bottom|2026-01-08 00:00:00": {
+    "first_seen": "2026-09-07T15:41:21.092152+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Double Bottom|2026-02-12 00:00:00": {
+    "first_seen": "2026-09-07T15:41:21.219787+00:00",
+    "status": "confirmed"
+  },
+  "BTC-USD|1d|Double Bottom|2026-03-08 00:00:00": {
+    "first_seen": "2026-09-07T15:41:21.348195+00:00",
+    "status": "confirmed"
+  },
+  "BTC-USD|1d|Double Bottom|2026-04-20 00:00:00": {
+    "first_seen": "2026-09-07T15:41:21.475085+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Double Bottom|2026-05-18 00:00:00": {
+    "first_seen": "2026-09-07T15:41:21.705607+00:00",
+    "status": "confirmed"
+  },
+  "BTC-USD|1d|Double Bottom|2026-07-13 00:00:00": {
+    "first_seen": "2026-09-07T15:41:21.837171+00:00",
+    "status": "confirmed"
+  },
+  "BTC-USD|1d|Double Bottom|2026-08-03 00:00:00": {
+    "first_seen": "2026-09-07T15:41:22.009227+00:00",
+    "status": "confirmed"
+  },
+  "BTC-USD|1d|Head & Shoulders|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:41:22.139369+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Inverse Head & Shoulders|2025-12-07 00:00:00": {
+    "first_seen": "2026-09-07T15:41:22.269853+00:00",
+    "status": "forming"
+  },
+  "BTC-USD|1d|Inverse Head & Shoulders|2026-02-19 00:00:00": {
+    "first_seen": "2026-09-07T15:41:22.508711+00:00",
+    "status": "confirmed"
+  },
+  "BTC-USD|1d|Inverse Head & Shoulders|2026-03-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:22.632730+00:00",
+    "status": "confirmed"
+  },
+  "BTC-USD|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:41:22.757090+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Double Top|2025-09-13 00:00:00": {
+    "first_seen": "2026-09-07T15:41:23.265329+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Double Top|2025-12-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:23.389582+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Double Top|2026-01-06 00:00:00": {
+    "first_seen": "2026-09-07T15:41:23.638218+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Double Top|2026-02-14 00:00:00": {
+    "first_seen": "2026-09-07T15:41:23.769335+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Double Top|2026-02-25 00:00:00": {
+    "first_seen": "2026-09-07T15:41:23.895271+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Double Top|2026-03-25 00:00:00": {
+    "first_seen": "2026-09-07T15:41:24.018462+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Double Top|2026-04-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:24.145504+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Double Top|2026-06-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:24.359654+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Double Top|2026-08-27 00:00:00": {
+    "first_seen": "2026-09-07T15:41:24.483632+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Double Bottom|2025-10-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:24.610771+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:24.738795+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Double Bottom|2026-02-12 00:00:00": {
+    "first_seen": "2026-09-07T15:41:24.869570+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Double Bottom|2026-04-19 00:00:00": {
+    "first_seen": "2026-09-07T15:41:25.004832+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Double Bottom|2026-07-24 00:00:00": {
+    "first_seen": "2026-09-07T15:41:25.287440+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Double Bottom|2026-08-01 00:00:00": {
+    "first_seen": "2026-09-07T15:41:25.419402+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Head & Shoulders|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:41:25.549228+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Head & Shoulders|2026-04-27 00:00:00": {
+    "first_seen": "2026-09-07T15:41:25.713173+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Head & Shoulders|2026-07-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:25.863901+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Inverse Head & Shoulders|2025-12-07 00:00:00": {
+    "first_seen": "2026-09-07T15:41:26.091427+00:00",
+    "status": "forming"
+  },
+  "ETH-USD|1d|Inverse Head & Shoulders|2026-04-19 00:00:00": {
+    "first_seen": "2026-09-07T15:41:26.229373+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Inverse Head & Shoulders|2026-06-18 00:00:00": {
+    "first_seen": "2026-09-07T15:41:26.353932+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Inverse Head & Shoulders|2026-07-24 00:00:00": {
+    "first_seen": "2026-09-07T15:41:26.483764+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:41:26.606385+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:41:26.814000+00:00",
+    "status": "confirmed"
+  },
+  "ETH-USD|1d|Linie de trend (suport)|": {
+    "first_seen": "2026-09-07T15:41:26.945191+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Double Top|2025-11-20 00:00:00": {
+    "first_seen": "2026-09-07T15:41:27.501790+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Double Top|2025-12-04 00:00:00": {
+    "first_seen": "2026-09-07T15:41:27.624891+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Double Top|2025-12-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:27.753925+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Double Top|2026-04-01 00:00:00": {
+    "first_seen": "2026-09-07T15:41:27.980297+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Double Top|2026-04-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:28.105429+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Double Top|2026-06-15 00:00:00": {
+    "first_seen": "2026-09-07T15:41:28.233318+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Double Top|2026-07-15 00:00:00": {
+    "first_seen": "2026-09-07T15:41:28.355753+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Double Bottom|2025-10-12 00:00:00": {
+    "first_seen": "2026-09-07T15:41:28.476591+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Double Bottom|2025-10-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:28.733988+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Double Bottom|2025-10-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:28.872309+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Double Bottom|2025-11-21 00:00:00": {
+    "first_seen": "2026-09-07T15:41:29.009279+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Double Bottom|2025-12-18 00:00:00": {
+    "first_seen": "2026-09-07T15:41:29.140653+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Double Bottom|2026-04-12 00:00:00": {
+    "first_seen": "2026-09-07T15:41:29.276216+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Double Bottom|2026-04-19 00:00:00": {
+    "first_seen": "2026-09-07T15:41:29.497239+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Double Bottom|2026-04-29 00:00:00": {
+    "first_seen": "2026-09-07T15:41:29.626140+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Double Bottom|2026-05-18 00:00:00": {
+    "first_seen": "2026-09-07T15:41:29.752289+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Double Bottom|2026-07-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:29.878083+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Head & Shoulders|2025-11-26 00:00:00": {
+    "first_seen": "2026-09-07T15:41:30.013374+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Head & Shoulders|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:41:30.246498+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Inverse Head & Shoulders|2025-11-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:30.386262+00:00",
+    "status": "forming"
+  },
+  "SOL-USD|1d|Inverse Head & Shoulders|2026-02-19 00:00:00": {
+    "first_seen": "2026-09-07T15:41:30.527786+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Inverse Head & Shoulders|2026-04-19 00:00:00": {
+    "first_seen": "2026-09-07T15:41:30.666287+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Inverse Head & Shoulders|2026-07-13 00:00:00": {
+    "first_seen": "2026-09-07T15:41:30.802559+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Inverse Head & Shoulders|2026-07-28 00:00:00": {
+    "first_seen": "2026-09-07T15:41:31.024139+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Cup & Handle|": {
+    "first_seen": "2026-09-07T15:41:31.157726+00:00",
+    "status": "confirmed"
+  },
+  "SOL-USD|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:41:31.290684+00:00",
+    "status": "confirmed"
+  },
+  "SUI20947-USD|1d|Double Top|2025-09-13 00:00:00": {
+    "first_seen": "2026-09-07T15:41:31.836381+00:00",
+    "status": "confirmed"
+  },
+  "SUI20947-USD|1d|Double Top|2025-10-21 00:00:00": {
+    "first_seen": "2026-09-07T15:41:31.964211+00:00",
+    "status": "confirmed"
+  },
+  "SUI20947-USD|1d|Double Top|2026-02-15 00:00:00": {
+    "first_seen": "2026-09-07T15:41:32.082553+00:00",
+    "status": "confirmed"
+  },
+  "SUI20947-USD|1d|Double Top|2026-02-25 00:00:00": {
+    "first_seen": "2026-09-07T15:41:32.340622+00:00",
+    "status": "confirmed"
+  },
+  "SUI20947-USD|1d|Double Top|2026-07-04 00:00:00": {
+    "first_seen": "2026-09-07T15:41:32.469590+00:00",
+    "status": "forming"
+  },
+  "SUI20947-USD|1d|Double Bottom|2025-10-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:32.599413+00:00",
+    "status": "forming"
+  },
+  "SUI20947-USD|1d|Double Bottom|2025-11-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:32.731513+00:00",
+    "status": "forming"
+  },
+  "SUI20947-USD|1d|Double Bottom|2025-12-06 00:00:00": {
+    "first_seen": "2026-09-07T15:41:32.862562+00:00",
+    "status": "forming"
+  },
+  "SUI20947-USD|1d|Double Bottom|2025-12-25 00:00:00": {
+    "first_seen": "2026-09-07T15:41:33.100762+00:00",
+    "status": "forming"
+  },
+  "SUI20947-USD|1d|Double Bottom|2026-02-11 00:00:00": {
+    "first_seen": "2026-09-07T15:41:33.260291+00:00",
+    "status": "forming"
+  },
+  "SUI20947-USD|1d|Double Bottom|2026-03-08 00:00:00": {
+    "first_seen": "2026-09-07T15:41:33.397602+00:00",
+    "status": "forming"
+  },
+  "SUI20947-USD|1d|Double Bottom|2026-03-29 00:00:00": {
+    "first_seen": "2026-09-07T15:41:33.523019+00:00",
+    "status": "forming"
+  },
+  "SUI20947-USD|1d|Double Bottom|2026-08-01 00:00:00": {
+    "first_seen": "2026-09-07T15:41:33.656664+00:00",
+    "status": "confirmed"
+  },
+  "SUI20947-USD|1d|Head & Shoulders|2026-03-04 00:00:00": {
+    "first_seen": "2026-09-07T15:41:33.913269+00:00",
+    "status": "confirmed"
+  },
+  "SUI20947-USD|1d|Head & Shoulders|2026-04-08 00:00:00": {
+    "first_seen": "2026-09-07T15:41:34.044567+00:00",
+    "status": "confirmed"
+  },
+  "SUI20947-USD|1d|Inverse Head & Shoulders|2026-02-24 00:00:00": {
+    "first_seen": "2026-09-07T15:41:34.183500+00:00",
+    "status": "forming"
+  },
+  "SUI20947-USD|1d|Inverse Head & Shoulders|2026-06-10 00:00:00": {
+    "first_seen": "2026-09-07T15:41:34.311787+00:00",
+    "status": "forming"
+  },
+  "SUI20947-USD|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:41:34.478318+00:00",
+    "status": "confirmed"
+  },
+  "ZEC-USD|1d|Double Top|2025-11-07 00:00:00": {
+    "first_seen": "2026-09-07T15:41:35.166740+00:00",
+    "status": "forming"
+  },
+  "ZEC-USD|1d|Double Top|2025-12-13 00:00:00": {
+    "first_seen": "2026-09-07T15:41:35.292338+00:00",
+    "status": "forming"
+  },
+  "ZEC-USD|1d|Double Bottom|2025-09-11 00:00:00": {
+    "first_seen": "2026-09-07T15:41:35.414279+00:00",
+    "status": "confirmed"
+  },
+  "ZEC-USD|1d|Double Bottom|2026-03-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:35.543645+00:00",
+    "status": "confirmed"
+  },
+  "ZEC-USD|1d|Head & Shoulders|2026-06-15 00:00:00": {
+    "first_seen": "2026-09-07T15:41:35.665836+00:00",
+    "status": "forming"
+  },
+  "ZEC-USD|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:41:35.912254+00:00",
+    "status": "confirmed"
+  },
+  "DOGE-USD|1d|Double Top|2025-11-26 00:00:00": {
+    "first_seen": "2026-09-07T15:41:36.430287+00:00",
+    "status": "confirmed"
+  },
+  "DOGE-USD|1d|Double Top|2025-12-03 00:00:00": {
+    "first_seen": "2026-09-07T15:41:36.553040+00:00",
+    "status": "confirmed"
+  },
+  "DOGE-USD|1d|Double Top|2026-02-25 00:00:00": {
+    "first_seen": "2026-09-07T15:41:36.684803+00:00",
+    "status": "forming"
+  },
+  "DOGE-USD|1d|Double Top|2026-05-06 00:00:00": {
+    "first_seen": "2026-09-07T15:41:36.808824+00:00",
+    "status": "confirmed"
+  },
+  "DOGE-USD|1d|Double Top|2026-07-11 00:00:00": {
+    "first_seen": "2026-09-07T15:41:37.056817+00:00",
+    "status": "forming"
+  },
+  "DOGE-USD|1d|Double Bottom|2025-10-17 00:00:00": {
+    "first_seen": "2026-09-07T15:41:37.185591+00:00",
+    "status": "forming"
+  },
+  "DOGE-USD|1d|Double Bottom|2025-11-21 00:00:00": {
+    "first_seen": "2026-09-07T15:41:37.310808+00:00",
+    "status": "forming"
+  },
+  "DOGE-USD|1d|Double Bottom|2025-12-01 00:00:00": {
+    "first_seen": "2026-09-07T15:41:37.432693+00:00",
+    "status": "forming"
+  },
+  "DOGE-USD|1d|Double Bottom|2025-12-18 00:00:00": {
+    "first_seen": "2026-09-07T15:41:37.554510+00:00",
+    "status": "forming"
+  },
+  "DOGE-USD|1d|Double Bottom|2026-02-11 00:00:00": {
+    "first_seen": "2026-09-07T15:41:37.681366+00:00",
+    "status": "forming"
+  },
+  "DOGE-USD|1d|Double Bottom|2026-02-28 00:00:00": {
+    "first_seen": "2026-09-07T15:41:37.897940+00:00",
+    "status": "forming"
+  },
+  "DOGE-USD|1d|Double Bottom|2026-06-30 00:00:00": {
+    "first_seen": "2026-09-07T15:41:38.028867+00:00",
+    "status": "confirmed"
+  },
+  "DOGE-USD|1d|Double Bottom|2026-07-24 00:00:00": {
+    "first_seen": "2026-09-07T15:41:38.154874+00:00",
+    "status": "confirmed"
+  },
+  "DOGE-USD|1d|Head & Shoulders|2026-07-22 00:00:00": {
+    "first_seen": "2026-09-07T15:41:38.279809+00:00",
+    "status": "forming"
+  },
+  "DOGE-USD|1d|Inverse Head & Shoulders|2025-11-21 00:00:00": {
+    "first_seen": "2026-09-07T15:41:38.407607+00:00",
+    "status": "forming"
+  },
+  "DOGE-USD|1d|Inverse Head & Shoulders|2026-02-28 00:00:00": {
+    "first_seen": "2026-09-07T15:41:38.622302+00:00",
+    "status": "forming"
+  },
+  "DOGE-USD|1d|Inverse Head & Shoulders|2026-07-24 00:00:00": {
+    "first_seen": "2026-09-07T15:41:38.748926+00:00",
+    "status": "confirmed"
+  },
+  "DOGE-USD|1d|Linie de trend (rezistenta)|": {
+    "first_seen": "2026-09-07T15:41:38.873344+00:00",
+    "status": "confirmed"
+  }
+}
